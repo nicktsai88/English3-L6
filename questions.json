@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 1,
+    "question": "The ＿＿＿ in the park are beautiful in spring and summer.",
+    "options": ["(A) flowers", "(B) metros", "(C) boats", "(D) cameras"],
+    "answer": "(A) flowers",
+    "image": null,
+    "explanation": "公園的「花」在春天跟夏天時很美。"
+  },
+  {
+    "id": 2,
+    "question": "It’s the best（最好的）time to buy a house because the price is ＿＿＿.",
+    "options": ["(A) quick", "(B) low", "(C) popular", "(D) careful"],
+    "answer": "(B) low",
+    "image": null,
+    "explanation": "現在是買房的最佳時機，因為價格很「低」。"
+  },
+  {
+    "id": 3,
+    "question": "During the race yesterday, Fiona ＿＿＿ got to the finish line first.  However, she fell at the last second and only came in second in the end.",
+    "options": ["(A) sadly", "(B) almost", "(C) finally", "(D) quickly"],
+    "answer": "(B) almost",
+    "image": null,
+    "explanation": "在昨天的賽跑中，Fiona「幾乎」抵達終點線了。然而，她在最後一秒跌倒而只拿到第二名。"
+  },
+  {
+    "id": 4,
+    "question": "The camping party tonight marks the end of our summer ＿＿＿.  Tomorrow we will go back home and get ready for school.",
+    "options": ["(A) fan", "(B) price", "(C) vacation", "(D) department"],
+    "answer": "(C) vacation",
+    "image": null,
+    "explanation": "今晚的露營派對為暑「假」畫上了句點。明日我們將要回家準備開學。"
+  },
+  {
+    "id": 5,
+    "question": "I don’t like to join local ＿＿＿.  I enjoy taking a trip on my own.",
+    "options": ["(A) banks", "(B) tours", "(C) prices", "(D) boats"],
+    "answer": "(B) tours",
+    "image": null,
+    "explanation": "我不喜歡參加當地的「旅遊行程」。我喜愛自己旅行。"
+  },
+  {
+    "id": 6,
+    "question": "Kenny is a street ＿＿＿.  He made a lot of money by selling flowers.",
+    "options": ["(A) fan", "(B) worker", "(C) vendor", "(D) waiter"],
+    "answer": "(C) vendor",
+    "image": null,
+    "explanation": "Kenny 是一位街頭「攤販」。他靠賣花賺了很多錢。"
+  },
+  {
+    "id": 7,
+    "question": "It took the workers eight years to build the ______ between the two cities.  Now, people can drive（開車）or walk across it.",
+    "options": ["(A) station", "(B) boat", "(C) post", "(D) bridge"],
+    "answer": "(D) bridge",
+    "image": null,
+    "explanation": "這些工人花了八年在兩個城市之間建造這座「橋」。現在，人們可以開車或走路越過這座橋。"
+  },
+  {
+    "id": 8,
+    "question": "Jasmine and Brian went to Hualien together for a 3-day trip.  They stayed at a beautiful ＿＿＿ next to a lake.",
+    "options": ["(A) hotel", "(B) bank", "(C) supermarket", "(D) flower shop"],
+    "answer": "(A) hotel",
+    "image": null,
+    "explanation": "Jasmine 跟 Brian 一起去花蓮旅行三天。他們住在一間鄰近湖泊很美的「飯店」。"
+  },
+  {
+    "id": 9,
+    "question": "Gina doesn’t want to share the bedroom with her sister.  She wants to have her ＿＿＿ room.",
+    "options": ["(A) low", "(B) own", "(C) each", "(D) local"],
+    "answer": "(B) own",
+    "image": null,
+    "explanation": "Gina 不想和她妹妹共用一間臥室。她想要有「自己的」房間。"
+  },
+  {
+    "id": 10,
+    "question": "My friends and I visited Sun Moon Lake last weekend.  It’s a great ＿＿＿ spot（地點）.",
+    "options": ["(A) post", "(B) hotel", "(C) bridge", "(D) vacation"],
+    "answer": "(D) vacation",
+    "image": null,
+    "explanation": "我跟我的朋友們上週末造訪日月潭。那是個很棒的「度假」地點。"
+  },
+  {
+    "id": 11,
+    "question": "Andy and Lisa spent all their money trying to save the bookstore their parents ＿＿＿ them.  Sadly, the business never got better, and they closed it in the end.",
+    "options": ["(A) paid", "(B) owned", "(C) left", "(D) decided"],
+    "answer": "(C) left",
+    "image": null,
+    "explanation": "Andy 跟 Lisa 花了他們所有的錢設法拯救這間父母「留」給他們的書店。遺憾地，生意未曾變好，他們最後關店了。"
+  },
+  {
+    "id": 12,
+    "question": "Good news!  ＿＿＿ elementary school student in this city can get one bottle of milk for free every week.",
+    "options": ["(A) Own", "(B) Each", "(C) Low", "(D) Middle"],
+    "answer": "(B) Each",
+    "image": null,
+    "explanation": "好消息！這城市的「每個」小學生每週可以免費獲得一瓶牛奶。"
+  },
+  {
+    "id": 13,
+    "question": "There are a lot of new faces in the ＿＿＿.  It will take me some time to remember who is who.",
+    "options": ["(A) fan", "(B) bridge", "(C) flower", "(D) office"],
+    "answer": "(D) office",
+    "image": null,
+    "explanation": "「辦公室」有許多新面孔。我要花些時間記住誰是誰。"
+  },
+  {
+    "id": 14,
+    "question": "Helen runs a ＿＿＿.  The strawberry cakes are popular with girls.",
+    "options": ["(A) bakery", "(B) bridge", "(C) bank", "(D) church"],
+    "answer": "(A) bakery",
+    "image": null,
+    "explanation": "Helen 經營一間「麵包店」。那裡的草莓蛋糕很受女生歡迎。"
+  },
+  {
+    "id": 15,
+    "question": "Wendy knows the flowers are red, but she can’t see them clearly（清楚地）.  She is ＿＿＿ blind（盲的）.",
+    "options": ["(A) far", "(B) maybe", "(C) almost", "(D) even"],
+    "answer": "(C) almost",
+    "image": null,
+    "explanation": "Wendy 知道這些花是紅色的，但她無法看清楚。她「幾乎」是盲的。"
+  },
+  {
+    "id": 16,
+    "question": "There is a ＿＿＿ around here.  You can buy milk and rice there.",
+    "options": ["(A) church", "(B) bank", "(C) supermarket", "(D) flower shop"],
+    "answer": "(C) supermarket",
+    "image": null,
+    "explanation": "這附近有一間「超級市場」。你可以在那裡買牛奶跟米。"
+  },
+  {
+    "id": 17,
+    "question": "Mr. Wang：It’s a sunny day.  What about taking a ＿＿＿ to Kaohsiung?  Mrs. Wang：Great.  Let’s go.",
+    "options": ["(A) fan", "(B) temple", "(C) trip", "(D) bridge"],
+    "answer": "(C) trip",
+    "image": null,
+    "explanation": "王先生：今天是晴天。去高雄「旅行」怎麼樣？  王太太：太棒了。我們走吧。"
+  },
+  {
+    "id": 18,
+    "question": "When people get older, they are more likely（可能）to forget things.  For example, they can’t ______ where they put their things.",
+    "options": ["(A) remember", "(B) decide", "(C) leave", "(D) spend"],
+    "answer": "(A) remember",
+    "image": null,
+    "explanation": "當人們年紀越大，他們越可能忘記東西。例如，他們會不「記得」東西放在哪裡。"
+  },
+  {
+    "id": 19,
+    "question": "A：The train will leave at 10:40 ＿＿＿ morning.  B：Then let’s meet at the station at 10:10.",
+    "options": ["(A) last", "(B) almost", "(C) tomorrow", "(D) yesterday"],
+    "answer": "(C) tomorrow",
+    "image": null,
+    "explanation": "A：火車將於「明天」早上十點四十分發車。  B：那我們十點十分在車站碰面吧。"
+  },
+  {
+    "id": 20,
+    "question": "Steven and his wife are both Buddhists（佛教徒）.  They visit the ＿＿＿ in the mountains every weekend.",
+    "options": ["(A) metro", "(B) temple", "(C) flower", "(D) boat"],
+    "answer": "(B) temple",
+    "image": null,
+    "explanation": "Steven 跟他的妻子都是佛教徒。他們每週末造訪那間在山裡的「寺廟」。"
+  },
+  {
+    "id": 21,
+    "question": "Hey, Josh.  Be ＿＿＿ of the black dog.  It bites.",
+    "options": ["(A) low", "(B) quick", "(C) careful", "(D) wonderful"],
+    "answer": "(C) careful",
+    "image": null,
+    "explanation": "嘿，Josh。要「小心」那隻黑狗。牠會咬人。"
+  },
+  {
+    "id": 22,
+    "question": "There won’t be a lot of people at Mike and Diana’s wedding（婚禮）, so they decided to get married（結婚）in a small but quiet ＿＿＿.",
+    "options": ["(A) boat", "(B) church", "(C) flower", "(D) metro"],
+    "answer": "(B) church",
+    "image": null,
+    "explanation": "Mike 跟 Diana 的婚禮不會有很多人，所以他們決定在一間很小但安靜的「教堂」結婚。"
+  },
+  {
+    "id": 23,
+    "question": "The small island is joined to the mainland（大陸）by the ＿＿＿.  It was built in 1895 when my great-grandmother was born.",
+    "options": ["(A) garden", "(B) slide", "(C) bridge", "(D) website"],
+    "answer": "(C) bridge",
+    "image": null,
+    "explanation": "那座小島跟大陸透過這座「橋」連接。它在我曾祖母出生的 1895 年被建造。"
+  },
+  {
+    "id": 24,
+    "question": "Look!  There are a lot of people waiting for buses at the bus ＿＿＿.  Let’s take（搭乘）the metro.",
+    "options": ["(A) shop", "(B) station", "(C) office", "(D) store"],
+    "answer": "(B) station",
+    "image": null,
+    "explanation": "看！有很多人正在公車「站」等公車。我們搭捷運吧。"
+  },
+  {
+    "id": 25,
+    "question": "Lena works at a ＿＿＿.  She puts books on the shelves every day.",
+    "options": ["(A) post office", "(B) hotel", "(C) bookstore", "(D) bank"],
+    "answer": "(C) bookstore",
+    "image": null,
+    "explanation": "Lena 在「書店」工作。她每天把書上架。"
+  },
+  {
+    "id": 26,
+    "question": "A：Sorry, Mr. Wang isn’t here now.  Would you like to ＿＿＿ a message?  B：OK.  When he comes back, please tell him to call Larry Brown.",
+    "options": ["(A) leave", "(B) pay", "(C) spend", "(D) decide"],
+    "answer": "(A) leave",
+    "image": null,
+    "explanation": "A：抱歉，王先生現在不在。你是否要「留」訊息給他？  B 好的。當他回來時，請告訴他打電話給 Larry Brown。"
+  },
+  {
+    "id": 27,
+    "question": "There will be a water outage（停水）tomorrow night, so ＿＿＿ to store（儲存）enough water.",
+    "options": ["(A) spend", "(B) decide", "(C) leave", "(D) remember"],
+    "answer": "(D) remember",
+    "image": null,
+    "explanation": "明晚會停水，所以要「記得」儲存足夠的水。"
+  },
+  {
+    "id": 28,
+    "question": "Tony is crazy（著迷的）about video games.  He ＿＿＿ five hours playing them every day.",
+    "options": ["(A) decides", "(B) costs", "(C) leaves", "(D) spends"],
+    "answer": "(D) spends",
+    "image": null,
+    "explanation": "Tony 對電玩遊戲很著迷。他每天「花」五小時打電玩遊戲。"
+  },
+  {
+    "id": 29,
+    "question": "This door leads to the back yard and the garden.  If you want to take a rest and enjoy the ＿＿＿, you can go there.",
+    "options": ["(A) offices", "(B) boats", "(C) shops", "(D) flowers"],
+    "answer": "(D) flowers",
+    "image": null,
+    "explanation": "這道門通往後院跟花園。如果你想要休息賞「花」，你可以去那裡。"
+  },
+  {
+    "id": 30,
+    "question": "The summer camp was very interesting.  We had a lot of ______ memories（回憶）.",
+    "options": ["(A) famous", "(B) quick", "(C) careful", "(D) wonderful"],
+    "answer": "(D) wonderful",
+    "image": null,
+    "explanation": "那個夏令營非常有趣。我們有許多「美好的」回憶。"
+  },
+  {
+    "id": 31,
+    "question": "Look at the picture.  There is a ＿＿＿ next to the hospital.",
+    "options": ["(A) park", "(B) bank", "(C) restaurant", "(D) police station"],
+    "answer": "(B) bank",
+    "image": "images/q31.jpg",
+    "explanation": "由圖可知，在醫院旁邊的是「銀行」。"
+  },
+  {
+    "id": 32,
+    "question": "Sorry.  I don’t ＿＿＿ your cellphone number.  Could you please tell me again?",
+    "options": ["(A) decide", "(B) leave", "(C) spend", "(D) remember"],
+    "answer": "(D) remember",
+    "image": null,
+    "explanation": "抱歉。我不「記得」你的手機號碼。可以請你再告訴我一次嗎？"
+  },
+  {
+    "id": 33,
+    "question": "Wendy is a ＿＿＿ worker.  She can make twenty fortune cookies（幸運餅乾）in one minute.",
+    "options": ["(A) low", "(B) clear", "(C) funny", "(D) quick"],
+    "answer": "(D) quick",
+    "image": null,
+    "explanation": "Wendy 是一位動作「迅速」的工人。她可以在一分鐘內做出二十個幸運餅乾。"
+  },
+  {
+    "id": 34,
+    "question": "A：Could you tell me the way to the train station?  B：Sorry, I’m new here.  You should ask ＿＿＿ people.",
+    "options": ["(A) own", "(B) low", "(C) local", "(D) each"],
+    "answer": "(C) local",
+    "image": null,
+    "explanation": "A：你能告訴我去火車站的路嗎？  B：抱歉，我是新來的。你應該問「當地」人。"
+  },
+  {
+    "id": 35,
+    "question": "George and his brother will ＿＿＿ the USA tomorrow afternoon, so they are packing（打包）their books and clothes.",
+    "options": ["(A) put on", "(B) pay for", "(C) leave for", "(D) lead to"],
+    "answer": "(C) leave for",
+    "image": null,
+    "explanation": "George 跟他弟弟明天下午將「前往」美國，所以他們正在打包書跟衣服。"
+  },
+  {
+    "id": 36,
+    "question": "Please turn on（打開）all the ＿＿＿ in the classroom.  It’s very hot now.",
+    "options": ["(A) shops", "(B) offices", "(C) boats", "(D) fans"],
+    "answer": "(D) fans",
+    "image": null,
+    "explanation": "請打開教室裡的所有「電扇」。現在非常熱。"
+  },
+  {
+    "id": 37,
+    "question": "Mike joined a triathlon（三項全能賽）.  He had to ride a bike（騎腳踏車）, swim, and run ＿＿＿ the race.",
+    "options": ["(A) along", "(B) without", "(C) during", "(D) past"],
+    "answer": "(C) during",
+    "image": null,
+    "explanation": "Mike 參加了三項全能賽。「在」競賽「期間」，他必須騎腳踏車、游泳跟跑步。"
+  },
+  {
+    "id": 38,
+    "question": "A：I am going to the ＿＿＿ store.  Do you want me to buy anything for you?  B：Yes.  I need a coat.",
+    "options": ["(A) hotel", "(B) post", "(C) department", "(D) supermarket"],
+    "answer": "(C) department",
+    "image": null,
+    "explanation": "A：我要去「百貨公司」。你要我幫你買什麼嗎？  B：要。我需要一件大衣。"
+  },
+  {
+    "id": 39,
+    "question": "Sorry, I don’t have any ＿＿＿ now.  Could I pay you tomorrow?",
+    "options": ["(A) bank", "(B) cash", "(C) trip", "(D) thousand"],
+    "answer": "(B) cash",
+    "image": null,
+    "explanation": "抱歉，我現在沒有任何「現金」。我可以明天付錢給你嗎？"
+  },
+  {
+    "id": 40,
+    "question": "The night market is very famous here.  It has many different kinds of ＿＿＿.",
+    "options": ["(A) posts", "(B) stations", "(C) stalls", "(D) bridges"],
+    "answer": "(C) stalls",
+    "image": null,
+    "explanation": "那個夜市在這裡很有名。它有許多不同種類的「攤位」。"
+  },
+  {
+    "id": 41,
+    "question": "Patty’s dad is a mailman.  He works at the ＿＿＿.",
+    "options": ["(A) bakery", "(B) bookstore", "(C) police station", "(D) post office"],
+    "answer": "(D) post office",
+    "image": null,
+    "explanation": "Patty 的爸爸是郵差。他在「郵局」工作。"
+  },
+  {
+    "id": 42,
+    "question": "I was busy yesterday afternoon, so I ＿＿＿ Peter NT$200 for taking care of my pet dog.",
+    "options": ["(A) left", "(B) paid", "(C) cost", "(D) decided"],
+    "answer": "(B) paid",
+    "image": null,
+    "explanation": "我昨天下午很忙，所以我「付了」新臺幣兩百元給 Peter 照顧我的寵物狗。"
+  },
+  {
+    "id": 43,
+    "question": "The stall only ＿＿＿ rice balls.  Many people wait in a long line in the early morning just to get some for their family or friends.",
+    "options": ["(A) costs", "(B) pays", "(C) spends", "(D) sells"],
+    "answer": "(D) sells",
+    "image": null,
+    "explanation": "這個攤位只「賣」飯糰。很多人在清晨大排長龍就只為了買一些飯糰給家人和朋友。"
+  },
+  {
+    "id": 44,
+    "question": "The total（總數）cost of the plan is five ＿＿＿ NT dollars.",
+    "options": ["(A) thousand", "(B) post", "(C) cash", "(D) price"],
+    "answer": "(A) thousand",
+    "image": null,
+    "explanation": "這項計畫的總成本是新臺幣五「千」元。"
+  },
+  {
+    "id": 45,
+    "question": "My uncle was a fisherman.  He worked on a ＿＿＿ and seldom went home.",
+    "options": ["(A) boat", "(B) temple", "(C) metro", "(D) bridge"],
+    "answer": "(A) boat",
+    "image": null,
+    "explanation": "我叔叔以前是一位漁夫。他在「船」上工作且很少回家。"
+  },
+  {
+    "id": 46,
+    "question": "The ＿＿＿ of the car is low now.  We should buy one when it is cheap（便宜的）.",
+    "options": ["(A) trip", "(B) fan", "(C) price", "(D) post"],
+    "answer": "(C) price",
+    "image": null,
+    "explanation": "現在這輛車子的「價錢」很低。我們應該趁便宜時買一輛。"
+  },
+  {
+    "id": 47,
+    "question": "After Jenny tried on the coat, she ______ to buy it.  It looked good on her.",
+    "options": ["(A) sold", "(B) left", "(C) decided", "(D) remembered"],
+    "answer": "(C) decided",
+    "image": null,
+    "explanation": "在 Jenny 試穿那件大衣後，她「決定」買下它。她穿起來很好看。"
+  },
+  {
+    "id": 48,
+    "question": "I’m hungry.  Let’s have lunch in that ＿＿＿.",
+    "options": ["(A) bank", "(B) bridge", "(C) restaurant", "(D) post office"],
+    "answer": "(C) restaurant",
+    "image": null,
+    "explanation": "我好餓。我們在那間「餐廳」吃午餐吧。"
+  },
+  {
+    "id": 49,
+    "question": "Taiwanese usually pray to gods in the ＿＿＿.  It’s a part of the Taiwanese culture（文化）.",
+    "options": ["(A) temple", "(B) bakery", "(C) hotel", "(D) supermarket"],
+    "answer": "(A) temple",
+    "image": null,
+    "explanation": "臺灣人通常在「寺廟」祈求神明。這是臺灣文化的一部分。"
+  },
+  {
+    "id": 50,
+    "question": "I don’t have enough money to buy the coat.  I need to get some money out of the ＿＿＿.",
+    "options": ["(A) bank", "(B) temple", "(C) bookstore", "(D) department store"],
+    "answer": "(A) bank",
+    "image": null,
+    "explanation": "我沒有足夠的錢買那件大衣。我需要從「銀行」提一些錢。"
+  },
+  {
+    "id": 51,
+    "question": "A：＿＿＿ you go camping with us next Saturday?  B：OK.  I’ll go with you.",
+    "options": ["(A) Are", "(B) Are you going", "(C) Do", "(D) Won’t"],
+    "answer": "(D) Won’t",
+    "image": null,
+    "explanation": "由答句 I’ll go 可知，問句可用 Will 或 Won’t 起首。"
+  },
+  {
+    "id": 52,
+    "question": "Lily’s science report was hard.  She spent two hours ＿＿＿ it last night.",
+    "options": ["(A) do", "(B) did", "(C) doing", "(D) to do"],
+    "answer": "(C) doing",
+    "image": null,
+    "explanation": "「人＋spend＋時間＋V-ing」表「某人花了……時間做某事」。"
+  },
+  {
+    "id": 53,
+    "question": "Fiona will ＿＿＿ for her math test in the afternoon.  She can’t have lunch with you.",
+    "options": ["(A) studied", "(B) studies", "(C) is studying", "(D) study"],
+    "answer": "(D) study",
+    "image": null,
+    "explanation": "will 後面接原形動詞。"
+  },
+  {
+    "id": 54,
+    "question": "Julia’s birthday is next Saturday.  Her father ＿＿＿ have a birthday party for her.",
+    "options": ["(A) is", "(B) are", "(C) will", "(D) ╳"],
+    "answer": "(C) will",
+    "image": null,
+    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。"
+  },
+  {
+    "id": 55,
+    "question": "Amy and Jason ＿＿＿ play the guitar after school.",
+    "options": ["(A) is going to", "(B) are going to", "(C) goes to", "(D) be going to"],
+    "answer": "(B) are going to",
+    "image": null,
+    "explanation": "此為「be going to＋原形動詞」用法，主詞為複數人稱，be 動詞用 are。"
+  },
+  {
+    "id": 56,
+    "question": "A：Are the show tickets expensive?  B：Yes.  I spent NT$8,000 ＿＿＿ my ticket.",
+    "options": ["(A) in", "(B) on", "(C) at", "(D) of"],
+    "answer": "(B) on",
+    "image": null,
+    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+  },
+  {
+    "id": 57,
+    "question": "Nina found ＿＿＿ NT dollars under her bed this morning.",
+    "options": ["(A) thousand", "(B) two thousand", "(C) the thousand", "(D) thousand of"],
+    "answer": "(B) two thousand",
+    "image": null,
+    "explanation": "「數字＋thousand＋可數名詞」表示「多少千……」；「thousands of＋可數名詞」表示「數以千計的……」。"
+  },
+  {
+    "id": 58,
+    "question": "A：Will Sara ＿＿＿ to our house and have dinner together?  B：No, she won’t.  She’s ＿＿＿ study at home.",
+    "options": ["(A) come; going", "(B) coming; goes", "(C) came; went to", "(D) come; going to"],
+    "answer": "(D) come; going to",
+    "image": null,
+    "explanation": "由回答 she won’t 可知問句須用「will＋原形動詞」，由 She’s＝She is 可知，後句要用「be going to＋原形動詞」表達「將要……」。"
+  },
+  {
+    "id": 59,
+    "question": "A：What will you do tomorrow?  B：I ＿＿＿ my dad ＿＿＿ flowers at the market.",
+    "options": ["(A) helped; to sell", "(B) will help; sell", "(C) will help; selling", "(D) helped; sold"],
+    "answer": "(B) will help; sell",
+    "image": null,
+    "explanation": "由問句 will 可知，答句也要用 will；help的句型為「help＋受詞＋（to）＋原形動詞」。"
+  },
+  {
+    "id": 60,
+    "question": "A：Are they ＿＿＿ eat some delicious cakes?  B：No, they ＿＿＿.  The cakes are too sweet（甜的）for them.",
+    "options": ["(A) going to; don’t", "(B) going to; aren’t", "(C) went to; didn’t", "(D) go to; aren’t"],
+    "answer": "(B) going to; aren’t",
+    "image": null,
+    "explanation": "be going to 的問句句型為「Be 動詞＋主詞＋going to＋原形動詞...?」。問句由 be 動詞提問，且回答是 no，故為否定簡答 they aren’t。"
+  },
+  {
+    "id": 61,
+    "question": "I ＿＿＿ NT$4,000 ＿＿＿ my wife’s birthday gift.  It was a nice watch.",
+    "options": ["(A) paid; with", "(B) spent; on", "(C) spent; for", "(D) paid; on"],
+    "answer": "(B) spent; on",
+    "image": null,
+    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+  },
+  {
+    "id": 62,
+    "question": "＿＿＿ took me half an hour to write a card for my mom.",
+    "options": ["(A) I", "(B) It", "(C) They", "(D) ╳"],
+    "answer": "(B) It",
+    "image": null,
+    "explanation": "「It takes / took＋人＋時間＋to V」表「做某事花了某人……時間」。"
+  },
+  {
+    "id": 63,
+    "question": "It ＿＿＿ me nine hundred NT dollars to get the fan.",
+    "options": ["(A) cost", "(B) paid", "(C) spent", "(D) took"],
+    "answer": "(A) cost",
+    "image": null,
+    "explanation": "「It cost＋人＋金錢＋to＋原形動詞」表「做某事花某人……錢」。"
+  },
+  {
+    "id": 64,
+    "question": "Cathy is shopping for a birthday gift for her dad at a department store.  This year, she ＿＿＿ her father a nice belt.",
+    "options": ["(A) gives", "(B) gave", "(C) is going to give", "(D) was giving"],
+    "answer": "(C) is going to give",
+    "image": null,
+    "explanation": "表達尚未發生的事，時態用未來式「will＋原形動詞」或「be going to＋原形動詞」。"
+  },
+  {
+    "id": 65,
+    "question": "There ＿＿＿ many people at the famous restaurant this weekend.  We should get there early.",
+    "options": ["(A) will be", "(B) are going to have", "(C) will have", "(D) is going to be"],
+    "answer": "(A) will be",
+    "image": null,
+    "explanation": "「There＋be動詞」表「（某地）有……」，不與 have 連用。此句 There will be...＝There are going to be...（將有……）。"
+  },
+  {
+    "id": 66,
+    "question": "Jeff came back from Singapore ＿＿＿, but he is going to visit Japan ＿＿＿.",
+    "options": ["(A) yesterday; last night", "(B) last night; two days ago", "(C) last week; this weekend", "(D) next month; before"],
+    "answer": "(C) last week; this weekend",
+    "image": null,
+    "explanation": "由 came back 可知，須搭配表示過去的時間副詞；由「be going to＋V」可知，須搭配表示未來的時間副詞。"
+  },
+  {
+    "id": 67,
+    "question": "A：______ Joyce going to take a trip to Taitung with you tomorrow?  B：No, she ______.  She’ll have to help her brother prepare for an important test.",
+    "options": ["(A) Will; won’t", "(B) Is; won’t", "(C) Will; isn’t", "(D) Is; isn’t"],
+    "answer": "(D) Is; isn’t",
+    "image": null,
+    "explanation": "由 going to take 及 tomorrow 可知問答句皆使用 be going to 的未來式，故第一格用 Is；由 no 可知為否定簡答，故第二格用 isn’t。"
+  },
+  {
+    "id": 68,
+    "question": "Bill is going to ＿＿＿ a lot of money ＿＿＿ the new car.  I can’t believe that.",
+    "options": ["(A) pay; for", "(B) take; with", "(C) cost; for", "(D) spend; in"],
+    "answer": "(A) pay; for",
+    "image": null,
+    "explanation": "「人＋pay＋金錢＋for＋物」表示「某人付了……錢買某物」。"
+  },
+  {
+    "id": 69,
+    "question": "My parents had to work from 5 p.m. to 9 p.m. today, so my brother and I decided ＿＿＿ dinner by ourselves.",
+    "options": ["(A) make", "(B) making", "(C) to make", "(D) by making"],
+    "answer": "(C) to make",
+    "image": null,
+    "explanation": "「decide to＋原形動詞」表「決定……」。"
+  },
+  {
+    "id": 70,
+    "question": "In the past, people would ＿＿＿ hours writing letters, but now people use LINE to send messages.",
+    "options": ["(A) spend", "(B) take", "(C) cost", "(D) pay"],
+    "answer": "(A) spend",
+    "image": null,
+    "explanation": "主詞為人，搭配花費時間的動詞為 spend。"
+  },
+  {
+    "id": 71,
+    "question": "The red line parking ticket（停車罰單）＿＿＿ Noah NT$900.",
+    "options": ["(A) cost", "(B) took", "(C) paid", "(D) spent"],
+    "answer": "(A) cost",
+    "image": null,
+    "explanation": "「某物＋cost＋某人＋金錢」表示「某物花了某人……錢」。"
+  },
+  {
+    "id": 72,
+    "question": "A：Will Nick ＿＿＿ to the library this Wednesday?  B：No, he ＿＿＿.  He goes there only on weekends.",
+    "options": ["(A) go; didn’t", "(B) goes; doesn’t", "(C) go; won’t", "(D) going; isn’t"],
+    "answer": "(C) go; won’t",
+    "image": null,
+    "explanation": "will 後面接原形動詞。由問句 Will... 可知，答句應為 won’t 或 will。由文意可知，Nick 星期三不會去圖書館，用 won’t。"
+  },
+  {
+    "id": 73,
+    "question": "The picture was drawn by Larry’s favorite artist（藝術家）.  Although he will have to ＿＿＿ a lot of money for it, he still wants to buy it.",
+    "options": ["(A) cost", "(B) take", "(C) spend", "(D) pay"],
+    "answer": "(D) pay",
+    "image": null,
+    "explanation": "「人＋pay＋金錢＋for＋物」表示「某人付……錢買某物」。"
+  },
+  {
+    "id": 74,
+    "question": "The clothes in that shop are on sale now.  We may ＿＿＿ less money on that shirt.",
+    "options": ["(A) spend", "(B) pay", "(C) cost", "(D) take"],
+    "answer": "(A) spend",
+    "image": null,
+    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+  },
+  {
+    "id": 75,
+    "question": "The dress（洋裝）＿＿＿ Alice a lot of money.  She decided to wear it to the party tomorrow.",
+    "options": ["(A) spent", "(B) cost", "(C) took", "(D) paid"],
+    "answer": "(B) cost",
+    "image": null,
+    "explanation": "「某物＋cost＋某人＋金錢」表示「某物花了某人……錢」。"
+  },
+  {
+    "id": 76,
+    "question": "A：______ Sam ______ badminton with his friends?  B：No, he isn’t.  He’s going to play video games with them.",
+    "options": ["(A) Is; practice", "(B) Did; practice", "(C) Will; practice", "(D) Isn’t; going to practice"],
+    "answer": "(D) Isn’t; going to practice",
+    "image": null,
+    "explanation": "由答句 No, he isn’t. 及 going to play 可知，問句為未來式 be going to，故第一格可用 Is 或 Isn’t，第二格用 going to practice。"
+  },
+  {
+    "id": 77,
+    "question": "A：＿＿＿ did your parents pay for your new computer?  B：Thirty ＿＿＿ dollars.",
+    "options": ["(A) How many; thousands", "(B) How long; thousand", "(C) How much; thousand", "(D) How much; thousands"],
+    "answer": "(C) How much; thousand",
+    "image": null,
+    "explanation": "根據回答「三萬元」，表示問「多少錢」，疑問詞用 How much。「數字＋thousand＋dollars」時，thousand 字尾不加 s。"
+  },
+  {
+    "id": 78,
+    "question": "My friends and I ＿＿＿ on a trip to Bangkok next week.  We’re really excited（感到興奮的）.",
+    "options": ["(A) went", "(B) am going to go", "(C) are going to", "(D) will go"],
+    "answer": "(D) will go",
+    "image": null,
+    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。"
+  },
+  {
+    "id": 79,
+    "question": "Bruce ＿＿＿ almost all his money on the house, and his dream of having his own house finally came true.",
+    "options": ["(A) spent", "(B) cost", "(C) paid", "(D) bought"],
+    "answer": "(A) spent",
+    "image": null,
+    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+  },
+  {
+    "id": 80,
+    "question": "A：Can you go to the supermarket and get some eggs for me?  B：OK.  I ＿＿＿ it in the afternoon.",
+    "options": ["(A) did", "(B) am doing", "(C) was doing", "(D) will do"],
+    "answer": "(D) will do",
+    "image": null,
+    "explanation": "由空格後的時間副詞 in the afternoon 可知是尚未發生的事，時態用未來式「will＋原形動詞」或「be going to＋原形動詞」。"
+  },
+  {
+    "id": 81,
+    "question": "A：How much did you ＿＿＿ for the computer?  B：It only ＿＿＿ me NT$12,000 because the computer store is having a big sale（特價）today.",
+    "options": ["(A) pay; cost", "(B) spend; cost", "(C) cost; spent", "(D) pay; spent"],
+    "answer": "(A) pay; cost",
+    "image": null,
+    "explanation": "由主詞 you 及 for 可知為「人＋pay＋金錢＋for＋物」的用法，所以第一格用 pay；由 It（= The computer）可知為「物＋cost＋人＋金錢」的用法。"
+  },
+  {
+    "id": 82,
+    "question": "A：＿＿＿ you buy some cakes for us tomorrow?  B：No, I ＿＿＿.  Cakes are not good for your health.",
+    "options": ["(A) Did; did", "(B) Are; am", "(C) Are going to; am", "(D) Will; won’t"],
+    "answer": "(D) Will; won’t",
+    "image": null,
+    "explanation": "由時間副詞 tomorrow 可知，問句應用未來式「Will＋主詞＋原形動詞...?」或「Be 動詞＋主詞＋going to＋原形動詞...?」。"
+  },
+  {
+    "id": 83,
+    "question": "＿＿＿ thirty minutes practicing English every day, and you can speak it well（好地）.",
+    "options": ["(A) Take", "(B) Spend", "(C) Pay", "(D) Cost"],
+    "answer": "(B) Spend",
+    "image": null,
+    "explanation": "「spend＋時間＋V-ing」表「花……時間做某事」。"
+  },
+  {
+    "id": 84,
+    "question": "I bought two boxes of face masks.  They ＿＿＿ me two hundred NT dollars.",
+    "options": ["(A) took", "(B) paid", "(C) spent", "(D) cost"],
+    "answer": "(D) cost",
+    "image": null,
+    "explanation": "由 ... me two hundred NT dollars 可知為「物＋cost＋人＋錢」的用法。"
+  },
+  {
+    "id": 85,
+    "question": "A：＿＿＿ the movie ＿＿＿ begin?  B：Yes.  Please turn off（關閉）your cellphone now.",
+    "options": ["(A) Is; will", "(B) Is; going to", "(C) Will; going to", "(D) Will; is going to"],
+    "answer": "(B) Is; going to",
+    "image": null,
+    "explanation": "be going to 的問句句型為「Be 動詞＋主詞＋going to＋原形動詞...?」。"
+  },
+  {
+    "id": 86,
+    "question": "It took the group two months ＿＿＿ the beach.  They met on weekends and worked together with the local people there.",
+    "options": ["(A) clean", "(B) cleaning", "(C) cleaned", "(D) to clean"],
+    "answer": "(D) to clean",
+    "image": null,
+    "explanation": "「It takes / took＋人＋時間＋to V」表示「做某事花了某人……時間」。"
+  },
+  {
+    "id": 87,
+    "question": "A：＿＿＿ does it take ＿＿＿ to the bank?  B：I’m not sure.  Maybe for about forty minutes.",
+    "options": ["(A) How long; go", "(B) When; going", "(C) How long; to go", "(D) What time; to go"],
+    "answer": "(C) How long; to go",
+    "image": null,
+    "explanation": "由回答「也許大約四十分鐘」可知，詢問花費多久時間，疑問詞用 How long。it 為虛主詞，代替句中的真主詞 to go to the bank。"
+  },
+  {
+    "id": 88,
+    "question": "A：＿＿＿ will it take you to walk to the bank?  B：About ten minutes.",
+    "options": ["(A) How much", "(B) How often", "(C) What time", "(D) How long"],
+    "answer": "(D) How long",
+    "image": null,
+    "explanation": "由回答「大約十分鐘」可知，是詢問花費多久時間，疑問詞用 How long。"
+  },
+  {
+    "id": 89,
+    "question": "A：What do you plan to do tomorrow?  B：＿＿＿ go swimming at the beach.",
+    "options": ["(A) I", "(B) I’m", "(C) I’ll", "(D) I want"],
+    "answer": "(C) I’ll",
+    "image": null,
+    "explanation": "由 tomorrow 可知是問明天的計畫，故答句要用未來式，I’ll 為 I will 的縮寫。"
+  },
+  {
+    "id": 90,
+    "question": "A：The singer ＿＿＿ come to our school this Saturday.  B：Cool!  He is my favorite（最喜愛的）singer.  I can’t wait ＿＿＿ him.",
+    "options": ["(A) is going; to see", "(B) will; seeing", "(C) will; to see", "(D) is going to; see"],
+    "answer": "(C) will; to see",
+    "image": null,
+    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。wait須搭配不定詞。"
+  },
+  {
+    "id": 91,
+    "question": "A：______ you go swimming this morning?  B：No, I didn’t, but I ______ this afternoon.  Do you want to come with me?",
+    "options": ["(A) Did; did", "(B) Won’t; will", "(C) Are; am", "(D) Didn’t; will"],
+    "answer": "(D) Didn’t; will",
+    "image": null,
+    "explanation": "由 No, I didn’t 可知問句的 this morning 指過去時間，故第一格可用 Did 或 Didn’t；由後句的邀約可知 this afternoon 指未來時間，故第二格要用 will。"
+  },
+  {
+    "id": 92,
+    "question": "A：＿＿＿ did you spend on the project（計畫）?  B：About three months.",
+    "options": ["(A) How much", "(B) How often", "(C) How long", "(D) How many"],
+    "answer": "(C) How long",
+    "image": null,
+    "explanation": "由回答「大約三個月」可知，是詢問花費多久時間，疑問詞用 How long。"
+  },
+  {
+    "id": 93,
+    "question": "It took Tina two hours ＿＿＿ her homework, but she still couldn’t finish it.",
+    "options": ["(A) do", "(B) doing", "(C) did", "(D) to do"],
+    "answer": "(D) to do",
+    "image": null,
+    "explanation": "「It＋takes / took＋人＋時間＋to＋V…」表示「做某事花了某人……時間」。"
+  },
+  {
+    "id": 94,
+    "question": "A：Did you buy the book from Tom yesterday?  B：Yes.  I ＿＿＿.",
+    "options": ["(A) paid one hundred NT dollars for Tom", "(B) spent one hundred NT dollars in the book", "(C) paid one hundred NT dollars for the book", "(D) cost one hundred NT dollars to buy the book"],
+    "answer": "(C) paid one hundred NT dollars for the book",
+    "image": null,
+    "explanation": "「A＋pay＋B＋金錢」表「A 付給 B……錢」。「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。「人＋pay＋金錢＋for＋物」表「某人付了……錢買某物」。「物＋cost＋人＋金錢」表「某物花了某人……錢」。"
+  },
+  {
+    "id": 95,
+    "question": "A：It ＿＿＿ me a lot of time to find my dream job.  B：So, why did you decide ＿＿＿ a cook?",
+    "options": ["(A) paid; to be", "(B) spent; being", "(C) took; to be", "(D) took; being"],
+    "answer": "(C) took; to be",
+    "image": null,
+    "explanation": "以事物為主詞，搭配花費時間的動詞 take。「decide to＋原形動詞」表「決定……」。"
+  },
+  {
+    "id": 96,
+    "question": "Although it cost me NT$50,000 ＿＿＿ a trip to Japan, I still want to go there again.",
+    "options": ["(A) taking", "(B) to take", "(C) took", "(D) take"],
+    "answer": "(B) to take",
+    "image": null,
+    "explanation": "「It cost＋人＋金錢＋to V」表示「做某事花了某人……錢」。"
+  },
+  {
+    "id": 97,
+    "question": "A：＿＿＿ come to the party tonight?  B：No, she won’t.  She has to study for tests.",
+    "options": ["(A) Will Audrey", "(B) Is Audrey going", "(C) Did Audrey go to", "(D) Does Audrey go to"],
+    "answer": "(A) Will Audrey",
+    "image": null,
+    "explanation": "答句的 won’t 為助動詞 will 與 not 的縮寫，可知問句的助動詞也要用 will，後面接「主詞＋原形動詞」。"
+  },
+  {
+    "id": 98,
+    "question": "Sam ＿＿＿ a lot of time ＿＿＿ for the test, but he still didn’t pass it.",
+    "options": ["(A) take; to prepare", "(B) spent; preparing", "(C) paid; to prepare", "(D) cost; preparing"],
+    "answer": "(B) spent; preparing",
+    "image": null,
+    "explanation": "「人＋spend＋時間＋V-ing」表「某人花……時間做某事」。"
+  },
+  {
+    "id": 99,
+    "question": "A：＿＿＿ you help Lucy ＿＿＿ the floor?  B：Of course, I will.",
+    "options": ["(A) Do; mops", "(B) Did; mopped", "(C) Are; mopping", "(D) Will; mop"],
+    "answer": "(D) Will; mop",
+    "image": null,
+    "explanation": "答句為 I will，可知問句的助動詞也要用 will；help 後面接原形動詞或「to＋V」。"
+  },
+  {
+    "id": 100,
+    "question": "A：＿＿＿ did it cost Julia to buy the shoes?  B：Three thousand NT dollars.",
+    "options": ["(A) What time", "(B) How much", "(C) How long", "(D) How many"],
+    "answer": "(B) How much",
+    "image": null,
+    "explanation": "由回答「新臺幣三千元」可知，是詢問花費多少錢，疑問詞用 How much。"
+  },
+  {
+    "id": 101,
+    "question": "A：Is Mom in the kitchen now?  B：Yes, and she ＿＿＿ to cook dinner.  Dinner will be ready in one hour.",
+    "options": ["(A) is going", "(B) will", "(C) is", "(D) does"],
+    "answer": "(A) is going",
+    "image": null,
+    "explanation": "由空格後為「to＋V」可知，此為「be going to＋原形動詞」用法。"
+  },
+  {
+    "id": 102,
+    "question": "Patty ＿＿＿ a day in the department store looking for a cap for her husband.",
+    "options": ["(A) took", "(B) spent", "(C) cost", "(D) paid"],
+    "answer": "(B) spent",
+    "image": null,
+    "explanation": "「spend＋時間＋V-ing」表「花了……時間做某件事」。"
+  },
+  {
+    "id": 103,
+    "question": "A：Is John going to go on vacation with his family?  B：No, ＿＿＿.",
+    "options": ["(A) he won’t", "(B) he isn’t", "(C) he wasn’t", "(D) he didn’t"],
+    "answer": "(B) he isn’t",
+    "image": null,
+    "explanation": "用未來式「be going to＋原形動詞」問，簡答就用「Yes / No, 主詞＋be 動詞（＋not）.」回應。"
+  },
+  {
+    "id": 104,
+    "question": "It ＿＿＿ me a week to finish the work because it was really difficult.",
+    "options": ["(A) took", "(B) spent", "(C) paid", "(D) cost"],
+    "answer": "(A) took",
+    "image": null,
+    "explanation": "「It takes / took＋人＋時間＋to V」表示「做某事花了某人……時間」。"
+  },
+  {
+    "id": 105,
+    "question": "A：______ you have a good time at Laura’s place tonight?  B：Yes.  I’m happy I went, and I ______ there again tomorrow.",
+    "options": ["(A) Do; will go", "(B) Did; am going", "(C) Were; will go", "(D) Will; am going to go"],
+    "answer": "(B) Did; am going",
+    "image": null,
+    "explanation": "由回答 I’m happy I went 可知，第一個空格須用過去式助動詞 Did；由 tomorrow 可知，第二個空格要用未來式，可用 will go、am going to go、am going 表達。"
+  },
+  {
+    "id": 106,
+    "question": "A：Are you going to the beach ______?  B：Yes, but if（如果）it rains, we ______ stay at home.",
+    "options": ["(A) now; were", "(B) this Sunday; won’t", "(C) next weekend; will", "(D) at that time; going to"],
+    "answer": "(C) next weekend; will",
+    "image": null,
+    "explanation": "由 Are you going to 可知問句的時態為未來式，故第一格可用 this Sunday 或 next weekend；如果下雨「將會」待在家，故兩空格皆符合的選項為 (C)。"
+  },
+  {
+    "id": 107,
+    "question": "Ted ＿＿＿ a lot of money on an English program（課程）, and he ＿＿＿ a tutor（家教）to teach his eight-year-old son.",
+    "options": ["(A) spent; spent", "(B) cost; paid", "(C) spent; paid", "(D) took; spent"],
+    "answer": "(C) spent; paid",
+    "image": null,
+    "explanation": "「人＋spend＋金錢＋on 物品」表示「某人花多少錢在某物品上」、「人＋pay＋受詞＋to＋V」表「某人付錢叫人做某事」。"
+  },
+  {
+    "id": 108,
+    "question": "A：Are they going to shop for food with us?  B：＿＿＿",
+    "options": ["(A) Yes, they are.", "(B) No, they are going there.", "(C) Won’t they go with a group?", "(D) No, it won’t take you too much time."],
+    "answer": "(A) Yes, they are.",
+    "image": null,
+    "explanation": "A：他們要跟我們去購買食物嗎？  B：「是的，他們要。」"
+  },
+  {
+    "id": 109,
+    "question": "A：＿＿＿  B：Yes.  Visiting floating markets is very interesting.",
+    "options": ["(A) Are you going to the supermarket?", "(B) What are you going to do tomorrow?", "(C) Is visiting night markets popular here?", "(D) Are you going to visit the floating market with us tomorrow?"],
+    "answer": "(D) Are you going to visit the floating market with us tomorrow?",
+    "image": null,
+    "explanation": "A：「你明天要跟我們去造訪水上市場嗎？」  B：好啊。造訪水上市場很有趣。"
+  },
+  {
+    "id": 110,
+    "question": "A：I’m hungry.  B：＿＿＿  Let’s have dinner at the Chinese restaurant next to the post office.",
+    "options": ["(A) Almost!", "(B) Good job!", "(C) Same here.", "(D) Can I take a look?"],
+    "answer": "(C) Same here.",
+    "image": null,
+    "explanation": "A：我餓了。  B：「我也是。」我們去郵局旁邊的中式餐廳吃晚餐吧。"
+  },
+  {
+    "id": 111,
+    "question": "A：Are you going to visit the museum this afternoon?  B：Of course.  There are Monet’s paintings（畫）there now.  A：Really?  I like the great painter（畫家）.  ______",
+    "options": ["(A) I’ll go with you.", "(B) It won’t take you much time.", "(C) Be careful with the paintings.", "(D) I’m not going there this afternoon."],
+    "answer": "(A) I’ll go with you.",
+    "image": null,
+    "explanation": "A：你今天下午將去參觀博物館嗎？  B：當然。現在那裡有 Monet 的畫作。  A：真地嗎？我喜歡這位偉大的畫家。「我要和你一起去。」"
+  },
+  {
+    "id": 112,
+    "question": "A：What are you going to do this weekend?  B：＿＿＿",
+    "options": ["(A) I go to the department store on weekends.", "(B) We visited a famous temple last weekend.", "(C) We don’t go to school during summer vacation.", "(D) I need to work at my brother’s flower shop this weekend."],
+    "answer": "(D) I need to work at my brother’s flower shop this weekend.",
+    "image": null,
+    "explanation": "A：你這週末將要做什麼？  B：「我這週末將要在我哥哥的花店工作。」"
+  },
+  {
+    "id": 113,
+    "question": "______ because he is busy with work and can’t cook for us tonight.",
+    "options": ["(A) Dad will have dinner with us", "(B) The restaurant is next to the metro station", "(C) Making dinner only took Dad half an hour", "(D) Dad told me to buy our dinner home after school"],
+    "answer": "(D) Dad told me to buy our dinner home after school",
+    "image": null,
+    "explanation": "「爸爸叫我放學後買晚餐回家」，因為他工作很忙，今晚沒辦法煮飯給我們吃。"
+  },
+  {
+    "id": 114,
+    "question": "A：＿＿＿  B：Yes, I am.  I can’t wait to see the famous city.  A：Have a good trip.",
+    "options": ["(A) Were you in Bangkok before?", "(B) Will you go to the famous restaurant?", "(C) Are you going to visit Bangkok next month?", "(D) Is your brother going to go swimming this weekend?"],
+    "answer": "(C) Are you going to visit Bangkok next month?",
+    "image": null,
+    "explanation": "A：「你下個月要造訪曼谷嗎？」  B：是的，我是。我等不及要看看這著名的城市。  A：祝你旅行愉快。"
+  },
+  {
+    "id": 115,
+    "question": "A：What are we going to do after dinner?  B：＿＿＿",
+    "options": ["(A) He will pay for the dinner.", "(B) They are going to have chicken rice for dinner.", "(C) We are going to get some drinks at the supermarket.", "(D) We often take a walk along the river before dinner."],
+    "answer": "(C) We are going to get some drinks at the supermarket.",
+    "image": null,
+    "explanation": "A：我們吃完晚餐後將要做什麼？  B：「我們將要去超級市場買些飲料。」"
+  },
+  {
+    "id": 116,
+    "question": "A：Guess what?  Mr. and Mrs. Wang are going to move to another city next week.  B：Really?  What will they do with their old house?  A：______  B：How much money will they make if（如果）they sell their house?  A：About two million（百萬）NT dollars.",
+    "options": ["(A) They want to sell the house at a high price.", "(B) The house doesn’t cost them much money.", "(C) They will pay NT$9,800,000 for the house.", "(D) They plan to spend NT$9,800,000 on the house."],
+    "answer": "(A) They want to sell the house at a high price.",
+    "image": null,
+    "explanation": "A：你猜怎麼著？王先生跟王太太下週要搬到另一個城市。  B：真地嗎？那他們要怎麼處理他們的舊房子？  A：「他們想以高價賣掉房子。」  B：如果他們賣掉房子，他們會賺多少錢？  A：大約新臺幣兩百萬。"
+  },
+  {
+    "id": 117,
+    "question": "It’s raining now, so ______.  I don’t want to go out and get wet.",
+    "options": ["(A) I decided to stay at home", "(B) I’ll go to the beach on my own", "(C) I’m going to leave for the bus station", "(D) it took me half an hour to walk to the station"],
+    "answer": "(A) I decided to stay at home",
+    "image": null,
+    "explanation": "現在正在下雨，所以「我決定待在家」。我不想去外面被雨淋溼。"
+  },
+  {
+    "id": 118,
+    "question": "Go to the top of the mountain, and ______.  You can also see the ocean（海洋）.",
+    "options": ["(A) check out the post offices around here", "(B) share the story about the famous temple", "(C) you can see all the fishing boats along the river", "(D) you can learn the names of the places from the book"],
+    "answer": "(C) you can see all the fishing boats along the river",
+    "image": null,
+    "explanation": "走到山頂，那麼「你可以看見沿著河邊的所有漁船。」你也可以看見海洋。"
+  },
+  {
+    "id": 119,
+    "question": "A：Here we are.  Amphawa Floating Market!  B：Thanks for taking me here.  I can’t wait to visit the market.  A：Take your time.  ______",
+    "options": ["(A) We’ll go there on our own.", "(B) It won’t take you much time.", "(C) How long will they stay here?", "(D) We are going to spend three hours here."],
+    "answer": "(D) We are going to spend three hours here.",
+    "image": null,
+    "explanation": "A：我們到了。安帕瓦水上市場！  B：感謝你帶我來到這裡。我等不及要參觀市場了。  A：慢慢來。「我們會在這裡花費三小時。」"
+  },
+  {
+    "id": 120,
+    "question": "A：Will you and Joan go to the show tomorrow night?  B：Well, I will, ＿＿＿.",
+    "options": ["(A) but I am going to the show now", "(B) but only Joan will go to the show", "(C) but Joan will not go to the show", "(D) but Joan and I are not going to the show"],
+    "answer": "(C) but Joan will not go to the show",
+    "image": null,
+    "explanation": "A：你跟 Joan 將會去明晚的表演嗎？  B：嗯，我會去，「但 Joan 不會去那場表演」。"
+  },
+  {
+    "id": 121,
+    "question": "A：Why are you so tired（疲累的）?  B：Because my friends and I played soccer this morning.  A：How long did you spend playing the game?  B：＿＿＿ without taking a break.  A：No wonder.",
+    "options": ["(A) I am going to get some sleep", "(B) We spent three hours playing soccer", "(C) We didn’t play soccer until 11 o’clock", "(D) It took me 30 minutes to get to the park"],
+    "answer": "(B) We spent three hours playing soccer",
+    "image": null,
+    "explanation": "A：你為什麼這麼疲累？  B：因為我今天早上跟我朋友踢足球。  A：你們花了多少時間比賽？  B：「我們花了三小時踢足球」且沒有休息。  A：難怪。"
+  },
+  {
+    "id": 122,
+    "question": "A：＿＿＿  B：Maybe.  Do you want to go with him?",
+    "options": ["(A) Was it cold last night?", "(B) What’s your plan for the trip?", "(C) Are you going to watch the show?", "(D) Is John going to visit Aunt Stella today?"],
+    "answer": "(D) Is John going to visit Aunt Stella today?",
+    "image": null,
+    "explanation": "A：「John 今天要去拜訪 Stella 伯母嗎？」  B：或許會。你想跟他去嗎？"
+  },
+  {
+    "id": 123,
+    "question": "A：My family will take a trip to Sun Moon Lake next week.  B：Great!  There are many good hotels around the lake.  ______  A：This time we are going camping, so we’ll sleep in our tents（帳篷）.",
+    "options": ["(A) When will you go there?", "(B) How will you go there?", "(C) Which one will you stay at?", "(D) Will you take a photo at the lake?"],
+    "answer": "(C) Which one will you stay at?",
+    "image": null,
+    "explanation": "A：我們家下星期將要去日月潭旅行。  B：太棒了！日月潭周圍有很多不錯的旅館。「你們要住在哪家？」  A：這次我們將要去露營，所以我們將睡在我們的帳篷裡。"
+  },
+  {
+    "id": 124,
+    "question": "A：Will you go to church this Sunday?  B：＿＿＿",
+    "options": ["(A) No, but I will do it next week.", "(B) No, I will go to church with you.", "(C) Yes, I’m going to go shopping, too.", "(D) Yes, I’m going to spend my Sunday at the beach."],
+    "answer": "(A) No, but I will do it next week.",
+    "image": null,
+    "explanation": "A：你這週日要去教堂做禮拜嗎？  B：「不會，但我下星期會。」"
+  },
+  {
+    "id": 125,
+    "question": "A：How much money can I spend on the snacks this week, Dad?  B：＿＿＿  Having too many snacks isn’t good for you.",
+    "options": ["(A) I decided to stay at home.", "(B) About two hundred NT dollars.", "(C) They only cost me fifty NT dollars.", "(D) We’ll stay in the hotel for one week."],
+    "answer": "(B) About two hundred NT dollars.",
+    "image": null,
+    "explanation": "A：我這週可以花多少錢買零食，爸爸？  B：「大約新臺幣兩百元。」吃太多零食對你不好。"
+  },
+  {
+    "id": 126,
+    "question": "My family will take a trip to Singapore during the winter vacation, so my dad told me to plan the trip.  ______ because he wants to choose a good one to stay at.",
+    "options": ["(A) He will pay for the trip", "(B) We will visit some famous temples", "(C) He also asked me to check out some hotels", "(D) He also asked me to stay at the restaurant"],
+    "answer": "(C) He also asked me to check out some hotels",
+    "image": null,
+    "explanation": "我家今年寒假將要去新加坡旅行，所以我爸爸要我規劃旅行。「他也要我查看一些飯店」，因為他想要選一間好的來住。"
+  },
+  {
+    "id": 127,
+    "question": "A：Are Mr. and Mrs. Johnson going to leave for the department store?  B：Yes, ＿＿＿.",
+    "options": ["(A) they are going to shop for gifts", "(B) it won’t take you too much time", "(C) Mr. Johnson is going to take a trip", "(D) Mrs. Johnson goes to the department store"],
+    "answer": "(A) they are going to shop for gifts",
+    "image": null,
+    "explanation": "A：Johnson 夫婦將會前往百貨公司嗎？  B：是的，「他們要去購買禮物。」"
+  },
+  {
+    "id": 128,
+    "question": "______, and we’ll have a hot spring bath（溫泉）at a famous hotel.  Do you want to go with us?",
+    "options": ["(A) We don’t like to take a bath", "(B) We stayed there for a week", "(C) We spent two hours walking there", "(D) We’re planning a trip to Yilan this winter"],
+    "answer": "(D) We’re planning a trip to Yilan this winter",
+    "image": null,
+    "explanation": "「我們正在計畫今年冬天到宜蘭旅行」，而且我們將會在一間有名的飯店泡溫泉。你想要跟我們去嗎？"
+  },
+  {
+    "id": 129,
+    "question": "A：Why do these elephants in Africa（非洲）go a long way to find water?  B：Because it’s not the rainy season now, ＿＿＿.  A：I see.",
+    "options": ["(A) this is going to be exciting", "(B) there won’t be enough fruit", "(C) the rivers here are going to dry out", "(D) the zebras will stay here until the elephants come back"],
+    "answer": "(C) the rivers here are going to dry out",
+    "image": null,
+    "explanation": "A：為什麼非洲的大象要長途跋涉找水源？  B：因為現在不是雨季，「這裡的河即將乾枯」。  A：我了解了。"
+  }
+]
