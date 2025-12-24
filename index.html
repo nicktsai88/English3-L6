@@ -874,7 +874,7 @@
 
                 // Options
                 let optionsHtml = '<div class="wf-options">';
-                q.options.forEach(opt => {
+                q.options.forEach((opt, optIdx) => {
                     let btnClass = 'wf-opt-btn';
                     let disabled = '';
                     
@@ -888,7 +888,8 @@
                         if(userSel === val && userSel !== correct) btnClass += ' wrong';
                     }
                     
-                    optionsHtml += `<button class="${btnClass}" ${disabled} onclick="handleWaterfallAnswer('${q.id}', '${opt}')">${opt}</button>`;
+                    // CRITICAL FIX: Pass optIdx (number) instead of opt (string) to avoid quoting issues
+                    optionsHtml += `<button class="${btnClass}" ${disabled} onclick="handleWaterfallAnswer('${q.id}', ${optIdx})">${opt}</button>`;
                 });
                 optionsHtml += '</div>';
 
@@ -913,18 +914,27 @@
             window.scrollTo(0, 0);
         }
 
-        function handleWaterfallAnswer(qId, option) {
-            if(quizState.locked[qId]) return;
+        function handleWaterfallAnswer(qId, optIdx) {
+            // CRITICAL FIX: Find question using loose equality (handles string vs number IDs)
+            const qData = allQuestions.find(q => q.id == qId);
+            if(!qData) return;
+
+            // Use the real ID from data
+            const realId = qData.id;
+
+            if(quizState.locked[realId]) return;
             
-            const qData = allQuestions.find(q => q.id === qId);
-            quizState.answers[qId] = option;
-            quizState.locked[qId] = true;
+            // Retrieve option text using index
+            const option = qData.options[optIdx];
+
+            quizState.answers[realId] = option;
+            quizState.locked[realId] = true;
             
             const correct = qData.answer.substring(0,3);
             const selected = option.substring(0,3);
             
             // 取得卡片元素
-            const card = document.getElementById(`card-${qId}`);
+            const card = document.getElementById(`card-${realId}`);
 
             if(selected === correct) {
                 quizState.score++;
@@ -933,7 +943,7 @@
                 if(card) card.classList.add('card-correct'); // 立即變綠
             } else {
                 audioFail.play().catch(()=>{});
-                addToMistake(qId);
+                addToMistake(realId);
                 if(card) card.classList.add('card-wrong'); // 立即變紅
             }
             
