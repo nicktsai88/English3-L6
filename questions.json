@@ -1,1034 +1,1549 @@
 [
   {
     "id": 1,
-    "question": "The ＿＿＿ in the park are beautiful in spring and summer.",
-    "options": ["(A) flowers", "(B) metros", "(C) boats", "(D) cameras"],
-    "answer": "(A) flowers",
+    "question": "Uncle Joe bought a ＿＿＿ for me as my birthday gift. I can ride it to school.",
+    "options": [
+      "(A) truck",
+      "(B) monster",
+      "(C) bike",
+      "(D) clerk"
+    ],
+    "answer": "(C) bike",
     "image": null,
-    "explanation": "公園的「花」在春天跟夏天時很美。"
+    "explanation": "Joe 叔叔買了一輛「腳踏車」給我當生日禮物。我可以騎它上學。"
   },
   {
     "id": 2,
-    "question": "It’s the best（最好的）time to buy a house because the price is ＿＿＿.",
-    "options": ["(A) quick", "(B) low", "(C) popular", "(D) careful"],
-    "answer": "(B) low",
+    "question": "Look at your long ＿＿＿ hair. It's so beautiful.",
+    "options": [
+      "(A) favorite",
+      "(B) straight",
+      "(C) cheap",
+      "(D) convenient"
+    ],
+    "answer": "(B) straight",
     "image": null,
-    "explanation": "現在是買房的最佳時機，因為價格很「低」。"
+    "explanation": "看你又長又「直」的頭髮。真是美麗。"
   },
   {
     "id": 3,
-    "question": "During the race yesterday, Fiona ＿＿＿ got to the finish line first.  However, she fell at the last second and only came in second in the end.",
-    "options": ["(A) sadly", "(B) almost", "(C) finally", "(D) quickly"],
-    "answer": "(B) almost",
+    "question": "The bank is on Third Street. It's two ＿＿＿ from here.",
+    "options": [
+      "(A) trucks",
+      "(B) blocks",
+      "(C) corners",
+      "(D) bikes"
+    ],
+    "answer": "(B) blocks",
     "image": null,
-    "explanation": "在昨天的賽跑中，Fiona「幾乎」抵達終點線了。然而，她在最後一秒跌倒而只拿到第二名。"
+    "explanation": "銀行在第三街上。離這裡兩個「街區」。"
   },
   {
     "id": 4,
-    "question": "The camping party tonight marks the end of our summer ＿＿＿.  Tomorrow we will go back home and get ready for school.",
-    "options": ["(A) fan", "(B) price", "(C) vacation", "(D) department"],
-    "answer": "(C) vacation",
+    "question": "A: Do you want to try the steak(牛排)? B: No, thanks. I don't eat ＿＿＿.",
+    "options": [
+      "(A) pockets",
+      "(B) excuses",
+      "(C) blocks",
+      "(D) beef"
+    ],
+    "answer": "(D) beef",
     "image": null,
-    "explanation": "今晚的露營派對為暑「假」畫上了句點。明日我們將要回家準備開學。"
+    "explanation": "A:你想試試這牛排嗎? B:不,謝謝。我不吃「牛肉」。"
   },
   {
     "id": 5,
-    "question": "I don’t like to join local ＿＿＿.  I enjoy taking a trip on my own.",
-    "options": ["(A) banks", "(B) tours", "(C) prices", "(D) boats"],
-    "answer": "(B) tours",
-    "image": null,
-    "explanation": "我不喜歡參加當地的「旅遊行程」。我喜愛自己旅行。"
+    "question": "Look at the picture. The man is ＿＿＿.",
+    "options": [
+      "(A) buying a map from the girls",
+      "(B) looking at his wife in the picture",
+      "(C) showing the girls the way",
+      "(D) playing card games with the girls"
+    ],
+    "answer": "(C) showing the girls the way",
+    "image": "images/q05.jpg",
+    "explanation": "由圖可知,男子正在「為女孩們指示路線」。"
   },
   {
     "id": 6,
-    "question": "Kenny is a street ＿＿＿.  He made a lot of money by selling flowers.",
-    "options": ["(A) fan", "(B) worker", "(C) vendor", "(D) waiter"],
-    "answer": "(C) vendor",
+    "question": "A car hit James when he rode his ＿＿＿ to work, so he rested at home for one week.",
+    "options": [
+      "(A) boat",
+      "(B) scooter",
+      "(C) ship",
+      "(D) truck"
+    ],
+    "answer": "(B) scooter",
     "image": null,
-    "explanation": "Kenny 是一位街頭「攤販」。他靠賣花賺了很多錢。"
+    "explanation": "James騎「輕型機車」上班時被一輛車撞到,所以他在家休息了一個禮拜。"
   },
   {
     "id": 7,
-    "question": "It took the workers eight years to build the ______ between the two cities.  Now, people can drive（開車）or walk across it.",
-    "options": ["(A) station", "(B) boat", "(C) post", "(D) bridge"],
-    "answer": "(D) bridge",
+    "question": "Jacob's ＿＿＿ for being late is always \"I missed the bus.\" In fact, his father drives him to school every day.",
+    "options": [
+      "(A) clerk",
+      "(B) pocket",
+      "(C) mistake",
+      "(D) excuse"
+    ],
+    "answer": "(D) excuse",
     "image": null,
-    "explanation": "這些工人花了八年在兩個城市之間建造這座「橋」。現在，人們可以開車或走路越過這座橋。"
+    "explanation": "Jacob 遲到的「藉口」總是「我錯過了公車。」事實上,他爸爸每天載他上學。"
   },
   {
     "id": 8,
-    "question": "Jasmine and Brian went to Hualien together for a 3-day trip.  They stayed at a beautiful ＿＿＿ next to a lake.",
-    "options": ["(A) hotel", "(B) bank", "(C) supermarket", "(D) flower shop"],
-    "answer": "(A) hotel",
+    "question": "Never use your cellphone when you are ＿＿＿ a car because you might hit people.",
+    "options": [
+      "(A) flying",
+      "(B) driving",
+      "(C) rowing",
+      "(D) costing"
+    ],
+    "answer": "(B) driving",
     "image": null,
-    "explanation": "Jasmine 跟 Brian 一起去花蓮旅行三天。他們住在一間鄰近湖泊很美的「飯店」。"
+    "explanation": "絕對不要在你「開」車時使用手機,因為你可能會撞到人。"
   },
   {
     "id": 9,
-    "question": "Gina doesn’t want to share the bedroom with her sister.  She wants to have her ＿＿＿ room.",
-    "options": ["(A) low", "(B) own", "(C) each", "(D) local"],
-    "answer": "(B) own",
+    "question": "My watch was ＿＿＿. It showed the wrong time, so I was late for school.",
+    "options": [
+      "(A) favorite",
+      "(B) broken",
+      "(C) cheap",
+      "(D) straight"
+    ],
+    "answer": "(B) broken",
     "image": null,
-    "explanation": "Gina 不想和她妹妹共用一間臥室。她想要有「自己的」房間。"
+    "explanation": "我的手錶「壞掉」,它顯示錯誤的時間,所以我上學遲到。"
   },
   {
     "id": 10,
-    "question": "My friends and I visited Sun Moon Lake last weekend.  It’s a great ＿＿＿ spot（地點）.",
-    "options": ["(A) post", "(B) hotel", "(C) bridge", "(D) vacation"],
-    "answer": "(D) vacation",
+    "question": "New York City is in the ＿＿＿ of the USA. It's not in the south.",
+    "options": [
+      "(A) north",
+      "(B) block",
+      "(C) rule",
+      "(D) pocket"
+    ],
+    "answer": "(A) north",
     "image": null,
-    "explanation": "我跟我的朋友們上週末造訪日月潭。那是個很棒的「度假」地點。"
+    "explanation": "紐約市在美國的「北方」。它不在南方。"
   },
   {
     "id": 11,
-    "question": "Andy and Lisa spent all their money trying to save the bookstore their parents ＿＿＿ them.  Sadly, the business never got better, and they closed it in the end.",
-    "options": ["(A) paid", "(B) owned", "(C) left", "(D) decided"],
-    "answer": "(C) left",
+    "question": "I take the metro to work every day because it is ＿＿＿. That way, I won't be late because of the heavy traffic.",
+    "options": [
+      "(A) straight",
+      "(B) convenient",
+      "(C) cheap",
+      "(D) broken"
+    ],
+    "answer": "(B) convenient",
     "image": null,
-    "explanation": "Andy 跟 Lisa 花了他們所有的錢設法拯救這間父母「留」給他們的書店。遺憾地，生意未曾變好，他們最後關店了。"
+    "explanation": "我每天搭捷運上班,因為捷運很「方便」。這樣,我就不會因為繁忙的交通而遲到。"
   },
   {
     "id": 12,
-    "question": "Good news!  ＿＿＿ elementary school student in this city can get one bottle of milk for free every week.",
-    "options": ["(A) Own", "(B) Each", "(C) Low", "(D) Middle"],
-    "answer": "(B) Each",
+    "question": "After the police officers asked the man to take everything out of his ＿＿＿, they found my smartphone.",
+    "options": [
+      "(A) blocks",
+      "(B) excuses",
+      "(C) monsters",
+      "(D) pockets"
+    ],
+    "answer": "(D) pockets",
     "image": null,
-    "explanation": "好消息！這城市的「每個」小學生每週可以免費獲得一瓶牛奶。"
+    "explanation": "警察要求這名男子拿出「口袋」中所有東西後,他們找到了我的手機。"
   },
   {
     "id": 13,
-    "question": "There are a lot of new faces in the ＿＿＿.  It will take me some time to remember who is who.",
-    "options": ["(A) fan", "(B) bridge", "(C) flower", "(D) office"],
-    "answer": "(D) office",
+    "question": "Eating and drinking on the metro is against(違反)the ＿＿＿. Let's not do it and keep the train clean.",
+    "options": [
+      "(A) space",
+      "(B) clerk",
+      "(C) ship",
+      "(D) rule"
+    ],
+    "answer": "(D) rule",
     "image": null,
-    "explanation": "「辦公室」有許多新面孔。我要花些時間記住誰是誰。"
+    "explanation": "在捷運上飲食是違反「規定」的。我們不要這樣做,保持車廂清潔吧。"
   },
   {
     "id": 14,
-    "question": "Helen runs a ＿＿＿.  The strawberry cakes are popular with girls.",
-    "options": ["(A) bakery", "(B) bridge", "(C) bank", "(D) church"],
-    "answer": "(A) bakery",
+    "question": "My key is at the ＿＿＿ of my bag, so it took me a few minutes to find it.",
+    "options": [
+      "(A) bottom",
+      "(B) south",
+      "(C) parking",
+      "(D) beef"
+    ],
+    "answer": "(A) bottom",
     "image": null,
-    "explanation": "Helen 經營一間「麵包店」。那裡的草莓蛋糕很受女生歡迎。"
+    "explanation": "我的鑰匙在包包的「底部」,所以我花了幾分鐘找到它。"
   },
   {
     "id": 15,
-    "question": "Wendy knows the flowers are red, but she can’t see them clearly（清楚地）.  She is ＿＿＿ blind（盲的）.",
-    "options": ["(A) far", "(B) maybe", "(C) almost", "(D) even"],
-    "answer": "(C) almost",
+    "question": "Don't ride bicycles or ＿＿＿ on a sidewalk. It is for people to walk on.",
+    "options": [
+      "(A) feet",
+      "(B) corners",
+      "(C) taxis",
+      "(D) motorcycles"
+    ],
+    "answer": "(D) motorcycles",
     "image": null,
-    "explanation": "Wendy 知道這些花是紅色的，但她無法看清楚。她「幾乎」是盲的。"
+    "explanation": "別在人行道上騎腳踏車或「重型機車」。它是供人們行走的。"
   },
   {
     "id": 16,
-    "question": "There is a ＿＿＿ around here.  You can buy milk and rice there.",
-    "options": ["(A) church", "(B) bank", "(C) supermarket", "(D) flower shop"],
-    "answer": "(C) supermarket",
+    "question": "A: You are late for the date again. What's your ＿＿＿ this time? B: I missed the bus. I waited a long time for the next one.",
+    "options": [
+      "(A) block",
+      "(B) motorcycle",
+      "(C) excuse",
+      "(D) pocket"
+    ],
+    "answer": "(C) excuse",
     "image": null,
-    "explanation": "這附近有一間「超級市場」。你可以在那裡買牛奶跟米。"
+    "explanation": "A:你約會又遲到了。這次你的「藉口」是什麼? B:我錯過公車,下一班車我等了很久。"
   },
   {
     "id": 17,
-    "question": "Mr. Wang：It’s a sunny day.  What about taking a ＿＿＿ to Kaohsiung?  Mrs. Wang：Great.  Let’s go.",
-    "options": ["(A) fan", "(B) temple", "(C) trip", "(D) bridge"],
-    "answer": "(C) trip",
+    "question": "A: Which bakery has the best (最好的)cakes in town? B: It's Sandra's Bakery. Go down this street. It'll be on the ＿＿＿.",
+    "options": [
+      "(A) corner",
+      "(B) bike",
+      "(C) pocket",
+      "(D) foot"
+    ],
+    "answer": "(A) corner",
     "image": null,
-    "explanation": "王先生：今天是晴天。去高雄「旅行」怎麼樣？  王太太：太棒了。我們走吧。"
+    "explanation": "A:鎮上哪間麵包店有最好的蛋糕? B:是 Sandra's Bakery。沿著這條街走。它就在街「角」。"
   },
   {
     "id": 18,
-    "question": "When people get older, they are more likely（可能）to forget things.  For example, they can’t ______ where they put their things.",
-    "options": ["(A) remember", "(B) decide", "(C) leave", "(D) spend"],
-    "answer": "(A) remember",
+    "question": "This is my ＿＿＿ movie. I watch it every night. I can remember it from the beginning to the end.",
+    "options": [
+      "(A) favorite",
+      "(B) west",
+      "(C) east",
+      "(D) cheap"
+    ],
+    "answer": "(A) favorite",
     "image": null,
-    "explanation": "當人們年紀越大，他們越可能忘記東西。例如，他們會不「記得」東西放在哪裡。"
+    "explanation": "這是我「最喜愛的」電影。我每晚都看。我能記住電影從頭到尾的劇情。"
   },
   {
     "id": 19,
-    "question": "A：The train will leave at 10:40 ＿＿＿ morning.  B：Then let’s meet at the station at 10:10.",
-    "options": ["(A) last", "(B) almost", "(C) tomorrow", "(D) yesterday"],
-    "answer": "(C) tomorrow",
-    "image": null,
-    "explanation": "A：火車將於「明天」早上十點四十分發車。  B：那我們十點十分在車站碰面吧。"
+    "question": "Look at the picture. The Lin family decided to ＿＿＿ to Taitung because it took too long to go there by car.",
+    "options": [
+      "(A) row a boat",
+      "(B) take a plane",
+      "(C) fly a plane",
+      "(D) ride a ship"
+    ],
+    "answer": "(B) take a plane",
+    "image": "images/q19.jpg",
+    "explanation": "因為開車去臺東太久,所以林家人決定搭「飛機」去。"
   },
   {
     "id": 20,
-    "question": "Steven and his wife are both Buddhists（佛教徒）.  They visit the ＿＿＿ in the mountains every weekend.",
-    "options": ["(A) metro", "(B) temple", "(C) flower", "(D) boat"],
-    "answer": "(B) temple",
+    "question": "A: Which way is ＿＿＿? B: We can look for the sun. The sun rises in the ＿＿＿.",
+    "options": [
+      "(A) north",
+      "(B) west",
+      "(C) east",
+      "(D) south"
+    ],
+    "answer": "(C) east",
     "image": null,
-    "explanation": "Steven 跟他的妻子都是佛教徒。他們每週末造訪那間在山裡的「寺廟」。"
+    "explanation": "A:哪個方向是「東方」? B:我們可以找太陽。太陽由「東方」升起。"
   },
   {
     "id": 21,
-    "question": "Hey, Josh.  Be ＿＿＿ of the black dog.  It bites.",
-    "options": ["(A) low", "(B) quick", "(C) careful", "(D) wonderful"],
-    "answer": "(C) careful",
+    "question": "Who broke the oars (漿)? Now we can't ＿＿＿ the boat to cross the river.",
+    "options": [
+      "(A) check",
+      "(B) fly",
+      "(C) drive",
+      "(D) row"
+    ],
+    "answer": "(D) row",
     "image": null,
-    "explanation": "嘿，Josh。要「小心」那隻黑狗。牠會咬人。"
+    "explanation": "誰弄壞了槳?現在我們無法「划」船渡河了。"
   },
   {
     "id": 22,
-    "question": "There won’t be a lot of people at Mike and Diana’s wedding（婚禮）, so they decided to get married（結婚）in a small but quiet ＿＿＿.",
-    "options": ["(A) boat", "(B) church", "(C) flower", "(D) metro"],
-    "answer": "(B) church",
+    "question": "A: ＿＿＿ me. Can you show me the way to the train station? B: Sure. Just walk along the road, and you can see it on your left.",
+    "options": [
+      "(A) Remember",
+      "(B) Excuse",
+      "(C) Leave",
+      "(D) Drive"
+    ],
+    "answer": "(B) Excuse",
     "image": null,
-    "explanation": "Mike 跟 Diana 的婚禮不會有很多人，所以他們決定在一間很小但安靜的「教堂」結婚。"
+    "explanation": "A:「不好意思」。你可以告訴我往火車站的路嗎? B:當然。只要沿著這條路走,你就 會看到火車站在你的左邊。"
   },
   {
     "id": 23,
-    "question": "The small island is joined to the mainland（大陸）by the ＿＿＿.  It was built in 1895 when my great-grandmother was born.",
-    "options": ["(A) garden", "(B) slide", "(C) bridge", "(D) website"],
-    "answer": "(C) bridge",
+    "question": "A: Oh, no. The windows of our car are ＿＿＿. B: Let's call the police and report it now.",
+    "options": [
+      "(A) broken",
+      "(B) straight",
+      "(C) cheap",
+      "(D) favorite"
+    ],
+    "answer": "(A) broken",
     "image": null,
-    "explanation": "那座小島跟大陸透過這座「橋」連接。它在我曾祖母出生的 1895 年被建造。"
+    "explanation": "A:喔,不。我們車子的窗戶「破」了。B:我們現在打電話給警察報案吧。"
   },
   {
     "id": 24,
-    "question": "Look!  There are a lot of people waiting for buses at the bus ＿＿＿.  Let’s take（搭乘）the metro.",
-    "options": ["(A) shop", "(B) station", "(C) office", "(D) store"],
-    "answer": "(B) station",
+    "question": "I was late this morning. On my way to the office, I read my e-mails(電子郵件)in the ＿＿＿.",
+    "options": [
+      "(A) block",
+      "(B) space",
+      "(C) corner",
+      "(D) taxi"
+    ],
+    "answer": "(D) taxi",
     "image": null,
-    "explanation": "看！有很多人正在公車「站」等公車。我們搭捷運吧。"
+    "explanation": "今天早上我遲到了。在前往辦公室的路途中,我在「計程車」上閱讀我的電子郵件。"
   },
   {
     "id": 25,
-    "question": "Lena works at a ＿＿＿.  She puts books on the shelves every day.",
-    "options": ["(A) post office", "(B) hotel", "(C) bookstore", "(D) bank"],
-    "answer": "(C) bookstore",
+    "question": "We decided not to ＿＿＿ to Yangmingshan and took a bus there. It took more time, but we didn't have to worry about finding a parking space.",
+    "options": [
+      "(A) ride",
+      "(B) drive",
+      "(C) take",
+      "(D) fly"
+    ],
+    "answer": "(B) drive",
     "image": null,
-    "explanation": "Lena 在「書店」工作。她每天把書上架。"
+    "explanation": "我們決定不「開車」上陽明山,而是搭公車去。車程花更多時間,但我們不用擔心找停車位。"
   },
   {
     "id": 26,
-    "question": "A：Sorry, Mr. Wang isn’t here now.  Would you like to ＿＿＿ a message?  B：OK.  When he comes back, please tell him to call Larry Brown.",
-    "options": ["(A) leave", "(B) pay", "(C) spend", "(D) decide"],
-    "answer": "(A) leave",
+    "question": "A: What do you think about the movie? B: It's great. The green ＿＿＿ is those children's good friend, and it can do many cool things.",
+    "options": [
+      "(A) beef",
+      "(B) monster",
+      "(C) corner",
+      "(D) mistake"
+    ],
+    "answer": "(B) monster",
     "image": null,
-    "explanation": "A：抱歉，王先生現在不在。你是否要「留」訊息給他？  B 好的。當他回來時，請告訴他打電話給 Larry Brown。"
+    "explanation": "A:你覺得這部電影如何? B:它很棒。電影中的綠色「怪獸」是孩子們的好朋友,而且 牠能做很多很酷的事情。"
   },
   {
     "id": 27,
-    "question": "There will be a water outage（停水）tomorrow night, so ＿＿＿ to store（儲存）enough water.",
-    "options": ["(A) spend", "(B) decide", "(C) leave", "(D) remember"],
-    "answer": "(D) remember",
+    "question": "A: What are those people doing on the boat? B: They are practicing ＿＿＿ in the river because Dragon Boat Festival(端午節)is coming.",
+    "options": [
+      "(A) crossing",
+      "(B) flying",
+      "(C) paying",
+      "(D) rowing"
+    ],
+    "answer": "(D) rowing",
     "image": null,
-    "explanation": "明晚會停水，所以要「記得」儲存足夠的水。"
+    "explanation": "A:那些人在船上做什麼? B:他們正在河裡練習「划」船,因為端午節要到了。"
   },
   {
     "id": 28,
-    "question": "Tony is crazy（著迷的）about video games.  He ＿＿＿ five hours playing them every day.",
-    "options": ["(A) decides", "(B) costs", "(C) leaves", "(D) spends"],
-    "answer": "(D) spends",
+    "question": "Josh can fly a ＿＿＿. He enjoys seeing beautiful lakes and mountains from high above in it.",
+    "options": [
+      "(A) boat",
+      "(B) plane",
+      "(C) truck",
+      "(D) taxi"
+    ],
+    "answer": "(B) plane",
     "image": null,
-    "explanation": "Tony 對電玩遊戲很著迷。他每天「花」五小時打電玩遊戲。"
+    "explanation": "Josh 會駕駛「飛機」。他享受在飛機上從高處俯瞰美麗的湖泊和山。"
   },
   {
     "id": 29,
-    "question": "This door leads to the back yard and the garden.  If you want to take a rest and enjoy the ＿＿＿, you can go there.",
-    "options": ["(A) offices", "(B) boats", "(C) shops", "(D) flowers"],
-    "answer": "(D) flowers",
+    "question": "Mark: Would you please ＿＿＿ left at the corner and stop at the supermarket? Taxi Driver(司機): No problem.",
+    "options": [
+      "(A) leave",
+      "(B) row",
+      "(C) turn",
+      "(D) drive"
+    ],
+    "answer": "(C) turn",
     "image": null,
-    "explanation": "這道門通往後院跟花園。如果你想要休息賞「花」，你可以去那裡。"
+    "explanation": "Mark:可以請你在街角左「轉」並在超市停車嗎? 計程車司機:沒問題。"
   },
   {
     "id": 30,
-    "question": "The summer camp was very interesting.  We had a lot of ______ memories（回憶）.",
-    "options": ["(A) famous", "(B) quick", "(C) careful", "(D) wonderful"],
-    "answer": "(D) wonderful",
+    "question": "Boy: Is this your wallet(皮夾), ＿＿＿? Man Yes. Thank you for picking it up for me.",
+    "options": [
+      "(A) taxi",
+      "(B) monster",
+      "(C) beef",
+      "(D) sir"
+    ],
+    "answer": "(D) sir",
     "image": null,
-    "explanation": "那個夏令營非常有趣。我們有許多「美好的」回憶。"
+    "explanation": "男孩:「先生」,這是您的皮夾嗎? 男人:是的。謝謝你幫我撿起來。"
   },
   {
     "id": 31,
-    "question": "Look at the picture.  There is a ＿＿＿ next to the hospital.",
-    "options": ["(A) park", "(B) bank", "(C) restaurant", "(D) police station"],
-    "answer": "(B) bank",
-    "image": "images/q31.jpg",
-    "explanation": "由圖可知，在醫院旁邊的是「銀行」。"
+    "question": "We can't move the heavy sofa (沙發), so we don't clean the ＿＿＿ behind it often. It is very dirty there.",
+    "options": [
+      "(A) pocket",
+      "(B) block",
+      "(C) ship",
+      "(D) corner"
+    ],
+    "answer": "(D) corner",
+    "image": null,
+    "explanation": "我們無法移動這張很重的一沙發,所以我們不常打掃它後面的「角落」。那邊非常的髒。"
   },
   {
     "id": 32,
-    "question": "Sorry.  I don’t ＿＿＿ your cellphone number.  Could you please tell me again?",
-    "options": ["(A) decide", "(B) leave", "(C) spend", "(D) remember"],
-    "answer": "(D) remember",
+    "question": "We are moving to a new house this weekend. My uncle has a big ＿＿＿, and he'll help us move with it.",
+    "options": [
+      "(A) scooter",
+      "(B) space",
+      "(C) truck",
+      "(D) pocket"
+    ],
+    "answer": "(C) truck",
     "image": null,
-    "explanation": "抱歉。我不「記得」你的手機號碼。可以請你再告訴我一次嗎？"
+    "explanation": "我們這週末要搬家,我叔叔有一輛大「卡車」且他會用它幫我們搬家。"
   },
   {
     "id": 33,
-    "question": "Wendy is a ＿＿＿ worker.  She can make twenty fortune cookies（幸運餅乾）in one minute.",
-    "options": ["(A) low", "(B) clear", "(C) funny", "(D) quick"],
-    "answer": "(D) quick",
+    "question": "I live close to the metro station, so it's ＿＿＿ for me to get around by metro.",
+    "options": [
+      "(A) expensive",
+      "(B) convenient",
+      "(C) common",
+      "(D) difficult"
+    ],
+    "answer": "(B) convenient",
     "image": null,
-    "explanation": "Wendy 是一位動作「迅速」的工人。她可以在一分鐘內做出二十個幸運餅乾。"
+    "explanation": "我住得離捷運站很近,所以搭捷運四處旅遊對我而言很「方便」。"
   },
   {
     "id": 34,
-    "question": "A：Could you tell me the way to the train station?  B：Sorry, I’m new here.  You should ask ＿＿＿ people.",
-    "options": ["(A) own", "(B) low", "(C) local", "(D) each"],
-    "answer": "(C) local",
+    "question": "The famous church is a must-see place in this country. Many ＿＿＿ go there to take pictures and hear the stories behind it.",
+    "options": [
+      "(A) drivers",
+      "(B) reporters",
+      "(C) visitors",
+      "(D) members"
+    ],
+    "answer": "(C) visitors",
     "image": null,
-    "explanation": "A：你能告訴我去火車站的路嗎？  B：抱歉，我是新來的。你應該問「當地」人。"
+    "explanation": "這座著名的教堂是該國必看景點。很多「遊客」去那拍照和聆聽其背後的故事。"
   },
   {
     "id": 35,
-    "question": "George and his brother will ＿＿＿ the USA tomorrow afternoon, so they are packing（打包）their books and clothes.",
-    "options": ["(A) put on", "(B) pay for", "(C) leave for", "(D) lead to"],
-    "answer": "(C) leave for",
+    "question": "Bella and Scott found their seats and belted themselves in when they were told to do so. Soon after that, the ＿＿＿ took off from the airport.",
+    "options": [
+      "(A) boat",
+      "(B) plane",
+      "(C) truck",
+      "(D) scooter"
+    ],
+    "answer": "(B) plane",
     "image": null,
-    "explanation": "George 跟他弟弟明天下午將「前往」美國，所以他們正在打包書跟衣服。"
+    "explanation": "Bella和Scott 找到他們的座位,就被要求繫上安全帶。在那之後,很快地「飛機」就從機 場起飛了。"
   },
   {
     "id": 36,
-    "question": "Please turn on（打開）all the ＿＿＿ in the classroom.  It’s very hot now.",
-    "options": ["(A) shops", "(B) offices", "(C) boats", "(D) fans"],
-    "answer": "(D) fans",
+    "question": "Sam has to cross the street to take the bus because the bus stop is ＿＿＿ his school.",
+    "options": [
+      "(A) down",
+      "(B) across from",
+      "(C) along",
+      "(D) next to"
+    ],
+    "answer": "(B) across from",
     "image": null,
-    "explanation": "請打開教室裡的所有「電扇」。現在非常熱。"
+    "explanation": "Sam 必須過街搭公車,因為公車站牌在他學校的「對面」。"
   },
   {
     "id": 37,
-    "question": "Mike joined a triathlon（三項全能賽）.  He had to ride a bike（騎腳踏車）, swim, and run ＿＿＿ the race.",
-    "options": ["(A) along", "(B) without", "(C) during", "(D) past"],
-    "answer": "(C) during",
+    "question": "A: My motorcycle is not working. How can I go home at this time? It's late. B: Don't worry. I can give you a ＿＿＿ home after I finish my work.",
+    "options": [
+      "(A) block",
+      "(B) sign",
+      "(C) hand",
+      "(D) ride"
+    ],
+    "answer": "(D) ride",
     "image": null,
-    "explanation": "Mike 參加了三項全能賽。「在」競賽「期間」，他必須騎腳踏車、游泳跟跑步。"
+    "explanation": "A:我的重型機車壞掉了。這個時間我要如何回家?好晚了。B:別擔心。我結束工作後 可以「載」你回家。"
   },
   {
     "id": 38,
-    "question": "A：I am going to the ＿＿＿ store.  Do you want me to buy anything for you?  B：Yes.  I need a coat.",
-    "options": ["(A) hotel", "(B) post", "(C) department", "(D) supermarket"],
-    "answer": "(C) department",
+    "question": "With ＿＿＿, people can pass the news quickly. For example, we live in Taiwan, but we can know what's happening in the USA.",
+    "options": [
+      "(A) blocks",
+      "(B) motorcycles",
+      "(C) smartphones",
+      "(D) pockets"
+    ],
+    "answer": "(C) smartphones",
     "image": null,
-    "explanation": "A：我要去「百貨公司」。你要我幫你買什麼嗎？  B：要。我需要一件大衣。"
+    "explanation": "有了「智慧型手機」,人們可以快速傳播消息。例如,我們住在臺灣,但是可以得知美國正 在發生的事。"
   },
   {
     "id": 39,
-    "question": "Sorry, I don’t have any ＿＿＿ now.  Could I pay you tomorrow?",
-    "options": ["(A) bank", "(B) cash", "(C) trip", "(D) thousand"],
-    "answer": "(B) cash",
+    "question": "Joe plans to travel (旅行) to Japan by ＿＿＿ because he doesn't like to take planes.",
+    "options": [
+      "(A) block",
+      "(B) ship",
+      "(C) foot",
+      "(D) mistake"
+    ],
+    "answer": "(B) ship",
     "image": null,
-    "explanation": "抱歉，我現在沒有任何「現金」。我可以明天付錢給你嗎？"
+    "explanation": "Joe 計畫搭「船」去日本旅行,因為他不喜歡搭飛機。"
   },
   {
     "id": 40,
-    "question": "The night market is very famous here.  It has many different kinds of ＿＿＿.",
-    "options": ["(A) posts", "(B) stations", "(C) stalls", "(D) bridges"],
-    "answer": "(C) stalls",
+    "question": "Tina made a big ＿＿＿. She took the wrong train and got lost (迷路的).",
+    "options": [
+      "(A) airplane",
+      "(B) bakery",
+      "(C) mistake",
+      "(D) truck"
+    ],
+    "answer": "(C) mistake",
     "image": null,
-    "explanation": "那個夜市在這裡很有名。它有許多不同種類的「攤位」。"
+    "explanation": "Tina 犯了大「錯」。她搭錯了火車並迷了路。"
   },
   {
     "id": 41,
-    "question": "Patty’s dad is a mailman.  He works at the ＿＿＿.",
-    "options": ["(A) bakery", "(B) bookstore", "(C) police station", "(D) post office"],
-    "answer": "(D) post office",
+    "question": "＿＿＿ need to show their identity cards(身分證) before they go into the building.",
+    "options": [
+      "(A) Pockets",
+      "(B) Rules",
+      "(C) Visitors",
+      "(D) Mistakes"
+    ],
+    "answer": "(C) Visitors",
     "image": null,
-    "explanation": "Patty 的爸爸是郵差。他在「郵局」工作。"
+    "explanation": "「訪客」進入這棟建築物之前,需要出示他們的身分證。"
   },
   {
     "id": 42,
-    "question": "I was busy yesterday afternoon, so I ＿＿＿ Peter NT$200 for taking care of my pet dog.",
-    "options": ["(A) left", "(B) paid", "(C) cost", "(D) decided"],
-    "answer": "(B) paid",
+    "question": "The price of the car isn't high now. We should buy one when it is ＿＿＿.",
+    "options": [
+      "(A) cheap",
+      "(B) expensive",
+      "(C) free",
+      "(D) straight"
+    ],
+    "answer": "(A) cheap",
     "image": null,
-    "explanation": "我昨天下午很忙，所以我「付了」新臺幣兩百元給 Peter 照顧我的寵物狗。"
+    "explanation": "現在的車價不高。我們應該趁「便宜」時買一輛車。"
   },
   {
     "id": 43,
-    "question": "The stall only ＿＿＿ rice balls.  Many people wait in a long line in the early morning just to get some for their family or friends.",
-    "options": ["(A) costs", "(B) pays", "(C) spends", "(D) sells"],
-    "answer": "(D) sells",
+    "question": "Every year, a lot of birds fly from the north to the ＿＿＿ for the winter.",
+    "options": [
+      "(A) corner",
+      "(B) south",
+      "(C) ship",
+      "(D) block"
+    ],
+    "answer": "(B) south",
     "image": null,
-    "explanation": "這個攤位只「賣」飯糰。很多人在清晨大排長龍就只為了買一些飯糰給家人和朋友。"
+    "explanation": "每年有許多鳥從北方飛向「南方」過冬。"
   },
   {
     "id": 44,
-    "question": "The total（總數）cost of the plan is five ＿＿＿ NT dollars.",
-    "options": ["(A) thousand", "(B) post", "(C) cash", "(D) price"],
-    "answer": "(A) thousand",
+    "question": "You can park your car in the parking ＿＿＿ in front of our house.",
+    "options": [
+      "(A) space",
+      "(B) pocket",
+      "(C) monster",
+      "(D) clerk"
+    ],
+    "answer": "(A) space",
     "image": null,
-    "explanation": "這項計畫的總成本是新臺幣五「千」元。"
+    "explanation": "你們可以把車停在我家前面的「停車位」。"
   },
   {
     "id": 45,
-    "question": "My uncle was a fisherman.  He worked on a ＿＿＿ and seldom went home.",
-    "options": ["(A) boat", "(B) temple", "(C) metro", "(D) bridge"],
-    "answer": "(A) boat",
+    "question": "It's not common for people in the ＿＿＿ to take off their shoes before going into their homes.",
+    "options": [
+      "(A) plane",
+      "(B) bookstore",
+      "(C) church",
+      "(D) West"
+    ],
+    "answer": "(D) West",
     "image": null,
-    "explanation": "我叔叔以前是一位漁夫。他在「船」上工作且很少回家。"
+    "explanation": "「西方」人進屋前脫鞋並不普遍。"
   },
   {
     "id": 46,
-    "question": "The ＿＿＿ of the car is low now.  We should buy one when it is cheap（便宜的）.",
-    "options": ["(A) trip", "(B) fan", "(C) price", "(D) post"],
-    "answer": "(C) price",
+    "question": "A: Should we go east to the museum? B: No, we should go the other way. It is in the ＿＿＿ of the city.",
+    "options": [
+      "(A) north",
+      "(B) south",
+      "(C) left",
+      "(D) west"
+    ],
+    "answer": "(D) west",
     "image": null,
-    "explanation": "現在這輛車子的「價錢」很低。我們應該趁便宜時買一輛。"
+    "explanation": "A:我們是否應往東走才能到博物館? B:不,我們要走另一個方向。博物館在這城市的 「西邊」。"
   },
   {
     "id": 47,
-    "question": "After Jenny tried on the coat, she ______ to buy it.  It looked good on her.",
-    "options": ["(A) sold", "(B) left", "(C) decided", "(D) remembered"],
-    "answer": "(C) decided",
+    "question": "I made some ＿＿＿ in the report. Luckily (幸運地), I had enough time to correct(改正) them and handed it in on time.",
+    "options": [
+      "(A) blocks",
+      "(B) corners",
+      "(C) mistakes",
+      "(D) scooters"
+    ],
+    "answer": "(C) mistakes",
     "image": null,
-    "explanation": "在 Jenny 試穿那件大衣後，她「決定」買下它。她穿起來很好看。"
+    "explanation": "我在報告裡犯了一些「錯誤」。幸運地,我有足夠的時間改正它們並準時交出。"
   },
   {
     "id": 48,
-    "question": "I’m hungry.  Let’s have lunch in that ＿＿＿.",
-    "options": ["(A) bank", "(B) bridge", "(C) restaurant", "(D) post office"],
-    "answer": "(C) restaurant",
+    "question": "It was a quiet afternoon. All the houses ＿＿＿ when the two trucks went by.",
+    "options": [
+      "(A) forgot",
+      "(B) drove",
+      "(C) shook",
+      "(D) paid"
+    ],
+    "answer": "(C) shook",
     "image": null,
-    "explanation": "我好餓。我們在那間「餐廳」吃午餐吧。"
+    "explanation": "那是個安靜的下午。當那兩輛卡車經過時,所有的屋子都在「震動」。"
   },
   {
     "id": 49,
-    "question": "Taiwanese usually pray to gods in the ＿＿＿.  It’s a part of the Taiwanese culture（文化）.",
-    "options": ["(A) temple", "(B) bakery", "(C) hotel", "(D) supermarket"],
-    "answer": "(A) temple",
+    "question": "The hotel ＿＿＿ checked us in and gave us our room card. Then we took a rest in the room before we went shopping.",
+    "options": [
+      "(A) block",
+      "(B) clerk",
+      "(C) mistake",
+      "(D) ship"
+    ],
+    "answer": "(B) clerk",
     "image": null,
-    "explanation": "臺灣人通常在「寺廟」祈求神明。這是臺灣文化的一部分。"
+    "explanation": "旅館的「櫃檯人員」替我們辦理入住並給了我們房卡。然後我們在購物前先在房間休息。"
   },
   {
     "id": 50,
-    "question": "I don’t have enough money to buy the coat.  I need to get some money out of the ＿＿＿.",
-    "options": ["(A) bank", "(B) temple", "(C) bookstore", "(D) department store"],
-    "answer": "(A) bank",
+    "question": "That famous breakfast shop is on the ＿＿＿ side of the school, not on the right side. Don't mistake these two shops.",
+    "options": [
+      "(A) north",
+      "(B) block",
+      "(C) corner",
+      "(D) left"
+    ],
+    "answer": "(D) left",
     "image": null,
-    "explanation": "我沒有足夠的錢買那件大衣。我需要從「銀行」提一些錢。"
+    "explanation": "那間有名的早餐店在學校的「左邊」,不是在右邊。不要搞錯這兩間店。"
   },
   {
     "id": 51,
-    "question": "A：＿＿＿ you go camping with us next Saturday?  B：OK.  I’ll go with you.",
-    "options": ["(A) Are", "(B) Are you going", "(C) Do", "(D) Won’t"],
-    "answer": "(D) Won’t",
+    "question": "Mr. Jones will go to the beach by ＿＿＿ tomorrow night.",
+    "options": [
+      "(A) a car",
+      "(B) cars",
+      "(C) the car",
+      "(D) car"
+    ],
+    "answer": "(D) car",
     "image": null,
-    "explanation": "由答句 I’ll go 可知，問句可用 Will 或 Won’t 起首。"
+    "explanation": "「by+交通工具」表示「搭乘某交通工具」,交通工具應為單數形,不加冠詞。"
   },
   {
     "id": 52,
-    "question": "Lily’s science report was hard.  She spent two hours ＿＿＿ it last night.",
-    "options": ["(A) do", "(B) did", "(C) doing", "(D) to do"],
-    "answer": "(C) doing",
+    "question": "A: Will Mike go to John's party by ＿＿＿ this evening? B: I don't think so. His father ＿＿＿ to use the car tonight.",
+    "options": [
+      "(A) car; is going",
+      "(B) the car; is going",
+      "(C) car; will",
+      "(D) a car; will go"
+    ],
+    "answer": "(A) car; is going",
     "image": null,
-    "explanation": "「人＋spend＋時間＋V-ing」表「某人花了……時間做某事」。"
+    "explanation": "表達搭乘交通工具可用「by+交通工具」,交通工具應為單數形,不加冠詞,故第一格用car。 表達「將要………………… 的未來式可用「will+原形動詞」或「be going to+原形動詞」,故第二格用 is going"
   },
   {
     "id": 53,
-    "question": "Fiona will ＿＿＿ for her math test in the afternoon.  She can’t have lunch with you.",
-    "options": ["(A) studied", "(B) studies", "(C) is studying", "(D) study"],
-    "answer": "(D) study",
+    "question": "Larry goes to school ＿＿＿. He house is ＿＿＿ his school.",
+    "options": [
+      "(A) on foot; near",
+      "(B) with feet; far",
+      "(C) by a bike; far",
+      "(D) on a plane; near"
+    ],
+    "answer": "(A) on foot; near",
     "image": null,
-    "explanation": "will 後面接原形動詞。"
+    "explanation": "學校離家「近」,又「on foot」表示「走路」。"
   },
   {
     "id": 54,
-    "question": "Julia’s birthday is next Saturday.  Her father ＿＿＿ have a birthday party for her.",
-    "options": ["(A) is", "(B) are", "(C) will", "(D) ╳"],
-    "answer": "(C) will",
+    "question": "It ＿＿＿ Bruce an hour to wait for shaking hands with his favorite writer. He will never forget it.",
+    "options": [
+      "(A) took",
+      "(B) spent",
+      "(C) paid",
+      "(D) cost"
+    ],
+    "answer": "(A) took",
     "image": null,
-    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。"
+    "explanation": "「某事+take+人+to+原形動詞」表示「某事花了人多少時間做」。"
   },
   {
     "id": 55,
-    "question": "Amy and Jason ＿＿＿ play the guitar after school.",
-    "options": ["(A) is going to", "(B) are going to", "(C) goes to", "(D) be going to"],
-    "answer": "(B) are going to",
+    "question": "A: ＿＿＿ can I get to the hospital? B: Cross the street and walk for two minutes. You can see it ＿＿＿ your right.",
+    "options": [
+      "(A) How; on",
+      "(B) What; in",
+      "(C) How; at",
+      "(D) What; between"
+    ],
+    "answer": "(A) How; on",
     "image": null,
-    "explanation": "此為「be going to＋原形動詞」用法，主詞為複數人稱，be 動詞用 are。"
+    "explanation": "詢問前往目的地的方式時,疑問詞用 How。 on one's right表示「在某人的右手邊」。"
   },
   {
     "id": 56,
-    "question": "A：Are the show tickets expensive?  B：Yes.  I spent NT$8,000 ＿＿＿ my ticket.",
-    "options": ["(A) in", "(B) on", "(C) at", "(D) of"],
-    "answer": "(B) on",
+    "question": "A: Is Jessie going to ＿＿＿ to London this summer vacation? B: Yes. she will get there ＿＿＿ airplane then.",
+    "options": [
+      "(A) fly; by",
+      "(B) flew; from",
+      "(C) fly; with",
+      "(D) flew; from"
+    ],
+    "answer": "(A) fly; by",
     "image": null,
-    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+    "explanation": "「by+交通工具」表示「搭乘交通工具」,使用動詞fly或 by airplane 皆可表示「搭飛機」。"
   },
   {
     "id": 57,
-    "question": "Nina found ＿＿＿ NT dollars under her bed this morning.",
-    "options": ["(A) thousand", "(B) two thousand", "(C) the thousand", "(D) thousand of"],
-    "answer": "(B) two thousand",
+    "question": "＿＿＿ left at the second traffic lights, and the flower shop will be ＿＿＿ our left.",
+    "options": [
+      "(A) Go; at",
+      "(B) Go for; on",
+      "(C) Turn; at",
+      "(D) Turn; on"
+    ],
+    "answer": "(D) Turn; on",
     "image": null,
-    "explanation": "「數字＋thousand＋可數名詞」表示「多少千……」；「thousands of＋可數名詞」表示「數以千計的……」。"
+    "explanation": "turn right/left表「轉彎」,又為祈使句,故第一格選原形動詞 Turn:on... left/right表「在………………… 左邊或右邊」。"
   },
   {
     "id": 58,
-    "question": "A：Will Sara ＿＿＿ to our house and have dinner together?  B：No, she won’t.  She’s ＿＿＿ study at home.",
-    "options": ["(A) come; going", "(B) coming; goes", "(C) came; went to", "(D) come; going to"],
-    "answer": "(D) come; going to",
+    "question": "A: Don't turn right here. B: How many blocks do we need to go? A: ＿＿＿ straight ＿＿＿ one more block.",
+    "options": [
+      "(A) Turn; on",
+      "(B) Go; for",
+      "(C) Go; with",
+      "(D) Turn; to"
+    ],
+    "answer": "(B) Go; for",
     "image": null,
-    "explanation": "由回答 she won’t 可知問句須用「will＋原形動詞」，由 She’s＝She is 可知，後句要用「be going to＋原形動詞」表達「將要……」。"
+    "explanation": "「直走………………(個)街區」用「go straight for+數字+block(s)」。"
   },
   {
     "id": 59,
-    "question": "A：What will you do tomorrow?  B：I ＿＿＿ my dad ＿＿＿ flowers at the market.",
-    "options": ["(A) helped; to sell", "(B) will help; sell", "(C) will help; selling", "(D) helped; sold"],
-    "answer": "(B) will help; sell",
+    "question": "A: How did the Wang family go to the USA on their vacation? B: They ＿＿＿ a plane there because it would take too much time to go there ＿＿＿ ship.",
+    "options": [
+      "(A) took; by",
+      "(B) flew; ride",
+      "(C) flew; by",
+      "(D) took; ride"
+    ],
+    "answer": "(A) took; by",
     "image": null,
-    "explanation": "由問句 will 可知，答句也要用 will；help的句型為「help＋受詞＋（to）＋原形動詞」。"
+    "explanation": "「take+交通工具」表示「搭乘某交通工具」,「by+交通工具」表示「搭乘某交通工具」, 交通工具應為單數形,不加冠詞。"
   },
   {
     "id": 60,
-    "question": "A：Are they ＿＿＿ eat some delicious cakes?  B：No, they ＿＿＿.  The cakes are too sweet（甜的）for them.",
-    "options": ["(A) going to; don’t", "(B) going to; aren’t", "(C) went to; didn’t", "(D) go to; aren’t"],
-    "answer": "(B) going to; aren’t",
+    "question": "A: Excuse me, how can I get to Sunny Hospital? B: Just keep ＿＿＿ straight for three blocks and turn left at the Japanese restaurant. Then you can see it ＿＿＿ your right.",
+    "options": [
+      "(A) to walk; at",
+      "(B) walking; in",
+      "(C) walk; by",
+      "(D) walking; on"
+    ],
+    "answer": "(D) walking; on",
     "image": null,
-    "explanation": "be going to 的問句句型為「Be 動詞＋主詞＋going to＋原形動詞...?」。問句由 be 動詞提問，且回答是 no，故為否定簡答 they aren’t。"
+    "explanation": "用「keep+V-ing」表達「持續做………………」 walking;「on+所有格+right/left」,故第一格用 表達「在某人的右邊/左邊」,故第二格用on"
   },
   {
     "id": 61,
-    "question": "I ＿＿＿ NT$4,000 ＿＿＿ my wife’s birthday gift.  It was a nice watch.",
-    "options": ["(A) paid; with", "(B) spent; on", "(C) spent; for", "(D) paid; on"],
-    "answer": "(B) spent; on",
+    "question": "A: ＿＿＿ can we go to the art museum without driving a car? B: You can go there ＿＿＿ Bus 226 or take the metro and walk for ten minutes to get there.",
+    "options": [
+      "(A) What; by",
+      "(B) How; by",
+      "(C) Who; on",
+      "(D) When; on"
+    ],
+    "answer": "(B) How; by",
     "image": null,
-    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+    "explanation": "由回答交通方式可知,是詢問「如何」到美術館,疑問詞用 How。搭公車的介系詞用by。"
   },
   {
     "id": 62,
-    "question": "＿＿＿ took me half an hour to write a card for my mom.",
-    "options": ["(A) I", "(B) It", "(C) They", "(D) ╳"],
-    "answer": "(B) It",
+    "question": "The restaurant is ＿＿＿ Cherry Street ＿＿＿ Maple Road. It's famous for its noodles.",
+    "options": [
+      "(A) along; and",
+      "(B) on the left; or",
+      "(C) on the corner of; and",
+      "(D) in the front of; and"
+    ],
+    "answer": "(C) on the corner of; and",
     "image": null,
-    "explanation": "「It takes / took＋人＋時間＋to V」表「做某事花了某人……時間」。"
+    "explanation": "on the corner of A and B 表示「在A跟B的轉角」。"
   },
   {
     "id": 63,
-    "question": "It ＿＿＿ me nine hundred NT dollars to get the fan.",
-    "options": ["(A) cost", "(B) paid", "(C) spent", "(D) took"],
-    "answer": "(A) cost",
+    "question": "We were waiting in line to get ＿＿＿ the bus yesterday. However, the man ＿＿＿ us tried to cut in line.",
+    "options": [
+      "(A) on; behind",
+      "(B) in; in front of",
+      "(C) by; behind",
+      "(D) at; in front of"
+    ],
+    "answer": "(A) on; behind",
     "image": null,
-    "explanation": "「It cost＋人＋金錢＋to＋原形動詞」表「做某事花某人……錢」。"
+    "explanation": "可站立的交通工具搭配介系詞on,公車為可站立的交通工具,故第一格選on 「後方」的 男人才能插隊,故第二格選 behind。"
   },
   {
     "id": 64,
-    "question": "Cathy is shopping for a birthday gift for her dad at a department store.  This year, she ＿＿＿ her father a nice belt.",
-    "options": ["(A) gives", "(B) gave", "(C) is going to give", "(D) was giving"],
-    "answer": "(C) is going to give",
+    "question": "A: What will the weather be like tomorrow? B: It will be sunny, so I decided to ＿＿＿ my ＿＿＿ to look around the small town.",
+    "options": [
+      "(A) ride; scooter",
+      "(B) take; car",
+      "(C) ride; taxi",
+      "(D) drive; scooter"
+    ],
+    "answer": "(A) ride; scooter",
     "image": null,
-    "explanation": "表達尚未發生的事，時態用未來式「will＋原形動詞」或「be going to＋原形動詞」。"
+    "explanation": "明天天氣晴朗,所以我決定「騎我的機車」逛小鎮,又騎機車的動詞用 ride。"
   },
   {
     "id": 65,
-    "question": "There ＿＿＿ many people at the famous restaurant this weekend.  We should get there early.",
-    "options": ["(A) will be", "(B) are going to have", "(C) will have", "(D) is going to be"],
-    "answer": "(A) will be",
+    "question": "A: The car ＿＿＿ us is going too slowly. Let's speed up (加速) and go past it. B: No. It is not right to do that on a one-way street.",
+    "options": [
+      "(A) in back of",
+      "(B) next to",
+      "(C) across from",
+      "(D) in front of"
+    ],
+    "answer": "(D) in front of",
     "image": null,
-    "explanation": "「There＋be動詞」表「（某地）有……」，不與 have 連用。此句 There will be...＝There are going to be...（將有……）。"
+    "explanation": "由go past 可知是指在前面的車開得太慢了,故用 in front of"
   },
   {
     "id": 66,
-    "question": "Jeff came back from Singapore ＿＿＿, but he is going to visit Japan ＿＿＿.",
-    "options": ["(A) yesterday; last night", "(B) last night; two days ago", "(C) last week; this weekend", "(D) next month; before"],
-    "answer": "(C) last week; this weekend",
+    "question": "A: ＿＿＿ will Mark go to the restaurant? B: He'll go there ＿＿＿.",
+    "options": [
+      "(A) What; by a bus",
+      "(B) How; feet",
+      "(C) How; by car",
+      "(D) Where; by a truck"
+    ],
+    "answer": "(C) How; by car",
     "image": null,
-    "explanation": "由 came back 可知，須搭配表示過去的時間副詞；由「be going to＋V」可知，須搭配表示未來的時間副詞。"
+    "explanation": "詢問「如何」到餐廳,疑問詞用How。「by+交通工具」表示「搭乘某交通工具」,注意 交通工具應為單數形,且不加冠詞。「走路」應用 on foot。"
   },
   {
     "id": 67,
-    "question": "A：______ Joyce going to take a trip to Taitung with you tomorrow?  B：No, she ______.  She’ll have to help her brother prepare for an important test.",
-    "options": ["(A) Will; won’t", "(B) Is; won’t", "(C) Will; isn’t", "(D) Is; isn’t"],
-    "answer": "(D) Is; isn’t",
+    "question": "A: How can I get to the coffee shop? B: ＿＿＿ the road and walk ＿＿＿ five minutes. You'll find it across from a bank.",
+    "options": [
+      "(A) Go; (B) Cross; for",
+      "(B) Cross; for",
+      "(C) Across; for",
+      "(D) Cross; at"
+    ],
+    "answer": "(B) Cross; for",
     "image": null,
-    "explanation": "由 going to take 及 tomorrow 可知問答句皆使用 be going to 的未來式，故第一格用 Is；由 no 可知為否定簡答，故第二格用 isn’t。"
+    "explanation": "「過」馬路用動詞 cross,副詞 across前需要有動詞go/walk,故第一格選Cross,又「for +時間」表「走了多久」,故第二格選for。"
   },
   {
     "id": 68,
-    "question": "Bill is going to ＿＿＿ a lot of money ＿＿＿ the new car.  I can’t believe that.",
-    "options": ["(A) pay; for", "(B) take; with", "(C) cost; for", "(D) spend; in"],
-    "answer": "(A) pay; for",
+    "question": "Don't ＿＿＿ the street. You should ＿＿＿ that footbridge (天橋) over there.",
+    "options": [
+      "(A) cross; using",
+      "(B) across; use",
+      "(C) cross; to use",
+      "(D) go across; use"
+    ],
+    "answer": "(D) go across; use",
     "image": null,
-    "explanation": "「人＋pay＋金錢＋for＋物」表示「某人付了……錢買某物」。"
+    "explanation": "用 cross the street或go across the street。should 後面接原形動詞。"
   },
   {
     "id": 69,
-    "question": "My parents had to work from 5 p.m. to 9 p.m. today, so my brother and I decided ＿＿＿ dinner by ourselves.",
-    "options": ["(A) make", "(B) making", "(C) to make", "(D) by making"],
-    "answer": "(C) to make",
+    "question": "James dropped his wallet(錢包)on his way to work, so he ＿＿＿ back and forth ＿＿＿ the road and tried to find it.",
+    "options": [
+      "(A) walked; along",
+      "(B) walk; between",
+      "(C) walked; between",
+      "(D) walk; along"
+    ],
+    "answer": "(A) walked; along",
     "image": null,
-    "explanation": "「decide to＋原形動詞」表「決定……」。"
+    "explanation": "題目為過去式,時態需要一致,故第一格為walked,又「walk+along/down+某路」表示「沿 著某路走」。"
   },
   {
     "id": 70,
-    "question": "In the past, people would ＿＿＿ hours writing letters, but now people use LINE to send messages.",
-    "options": ["(A) spend", "(B) take", "(C) cost", "(D) pay"],
-    "answer": "(A) spend",
+    "question": "The history museum is ＿＿＿ Forest Road and Apple Street. There is a bus stop in front of it, so you can go there ＿＿＿ bus.",
+    "options": [
+      "(A) between; on",
+      "(B) on the corner of; by",
+      "(C) across from; by",
+      "(D) next to; on"
+    ],
+    "answer": "(B) on the corner of; by",
     "image": null,
-    "explanation": "主詞為人，搭配花費時間的動詞為 spend。"
+    "explanation": "「be on the corner of A and B」表示「在A和B的街角」,又「by+交通工具」表示「搭 乘某交通工具」,交通工具應為單數形,不加冠詞。"
   },
   {
     "id": 71,
-    "question": "The red line parking ticket（停車罰單）＿＿＿ Noah NT$900.",
-    "options": ["(A) cost", "(B) took", "(C) paid", "(D) spent"],
-    "answer": "(A) cost",
+    "question": "The store is not next ＿＿＿ my house. It's across ＿＿＿ my house.",
+    "options": [
+      "(A) by; from",
+      "(B) at; in",
+      "(C) to; from",
+      "(D) in; to"
+    ],
+    "answer": "(C) to; from",
     "image": null,
-    "explanation": "「某物＋cost＋某人＋金錢」表示「某物花了某人……錢」。"
+    "explanation": "next to 表示「在………………旁邊」;across from 表示「在………………對面」。"
   },
   {
     "id": 72,
-    "question": "A：Will Nick ＿＿＿ to the library this Wednesday?  B：No, he ＿＿＿.  He goes there only on weekends.",
-    "options": ["(A) go; didn’t", "(B) goes; doesn’t", "(C) go; won’t", "(D) going; isn’t"],
-    "answer": "(C) go; won’t",
+    "question": "A: Why will you go to the museum ＿＿＿ bus instead of (而不是) riding your scooter? B: Look at the cloudy sky. It's ＿＿＿ rain.",
+    "options": [
+      "(A) by a; will",
+      "(B) take a;",
+      "(C) by; going to",
+      "(D) by a; a lot of"
+    ],
+    "answer": "(C) by; going to",
     "image": null,
-    "explanation": "will 後面接原形動詞。由問句 Will... 可知，答句應為 won’t 或 will。由文意可知，Nick 星期三不會去圖書館，用 won’t。"
+    "explanation": "表達「搭公車」可用go... by bus或 take a bus;由it 可知 rain 在此為動詞用法,「be going to+原形動詞」表示「即將要………………」 。"
   },
   {
     "id": 73,
-    "question": "The picture was drawn by Larry’s favorite artist（藝術家）.  Although he will have to ＿＿＿ a lot of money for it, he still wants to buy it.",
-    "options": ["(A) cost", "(B) take", "(C) spend", "(D) pay"],
-    "answer": "(D) pay",
+    "question": "Tony ＿＿＿ the metro to the city this morning. In the evening, he will come back ＿＿＿.",
+    "options": [
+      "(A) took; by bus",
+      "(B) takes; by a bus",
+      "(C) took; by the bus",
+      "(D) takes; on buses"
+    ],
+    "answer": "(A) took; by bus",
     "image": null,
-    "explanation": "「人＋pay＋金錢＋for＋物」表示「某人付……錢買某物」。"
+    "explanation": "「搭乘」捷運動詞用 take,早上已經搭乘,故第一格用過去式 took,又「by+交通工具」表 示「搭乘某交通工具」,交通工具應為單數形,不加冠詞。"
   },
   {
     "id": 74,
-    "question": "The clothes in that shop are on sale now.  We may ＿＿＿ less money on that shirt.",
-    "options": ["(A) spend", "(B) pay", "(C) cost", "(D) take"],
-    "answer": "(A) spend",
+    "question": "A: Where is the supermarket? B: It's ＿＿＿ the corner ＿＿＿ Hope Road and Happy Street.",
+    "options": [
+      "(A) on; from",
+      "(B) on; of",
+      "(C) between; from",
+      "(D) between; of"
+    ],
+    "answer": "(B) on; of",
     "image": null,
-    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+    "explanation": "「be on the corner of A and B」表示「在A和B的街角」。"
   },
   {
     "id": 75,
-    "question": "The dress（洋裝）＿＿＿ Alice a lot of money.  She decided to wear it to the party tomorrow.",
-    "options": ["(A) spent", "(B) cost", "(C) took", "(D) paid"],
-    "answer": "(B) cost",
+    "question": "Eating fruit and vegetables is good for your skin(皮膚). ＿＿＿, it can help your body stay healthy.",
+    "options": [
+      "(A) At first",
+      "(B) What's more",
+      "(C) In the end",
+      "(D) However"
+    ],
+    "answer": "(B) What's more",
     "image": null,
-    "explanation": "「某物＋cost＋某人＋金錢」表示「某物花了某人……錢」。"
+    "explanation": "吃蔬果對皮膚好,後句接著補充可以幫助身體健康,故用 What's more 連接。"
   },
   {
     "id": 76,
-    "question": "A：______ Sam ______ badminton with his friends?  B：No, he isn’t.  He’s going to play video games with them.",
-    "options": ["(A) Is; practice", "(B) Did; practice", "(C) Will; practice", "(D) Isn’t; going to practice"],
-    "answer": "(D) Isn’t; going to practice",
+    "question": "A: ＿＿＿ did you go to the theater? B: It would take me an hour to walk there, so I went there ＿＿＿.",
+    "options": [
+      "(A) Where; on foot",
+      "(B) When; by taxi",
+      "(C) How; on foot",
+      "(D) How; by taxi"
+    ],
+    "answer": "(D) How; by taxi",
     "image": null,
-    "explanation": "由答句 No, he isn’t. 及 going to play 可知，問句為未來式 be going to，故第一格可用 Is 或 Isn’t，第二格用 going to practice。"
+    "explanation": "由答句可知,此處詢問「交通方式」,疑問詞用How。走路須一小時,故「搭計程車」去 電影院。"
   },
   {
     "id": 77,
-    "question": "A：＿＿＿ did your parents pay for your new computer?  B：Thirty ＿＿＿ dollars.",
-    "options": ["(A) How many; thousands", "(B) How long; thousand", "(C) How much; thousand", "(D) How much; thousands"],
-    "answer": "(C) How much; thousand",
+    "question": "A: How ＿＿＿ Linda and Jason go to Hualien (花蓮) last Friday? B: They ＿＿＿ the train.",
+    "options": [
+      "(A) did; took",
+      "(B) will; paid",
+      "(C) do; drove",
+      "(D) were; flew"
+    ],
+    "answer": "(A) did; took",
     "image": null,
-    "explanation": "根據回答「三萬元」，表示問「多少錢」，疑問詞用 How much。「數字＋thousand＋dollars」時，thousand 字尾不加 s。"
+    "explanation": "上週五的事情用過去式表示,又搭乘火車的動詞用 take"
   },
   {
     "id": 78,
-    "question": "My friends and I ＿＿＿ on a trip to Bangkok next week.  We’re really excited（感到興奮的）.",
-    "options": ["(A) went", "(B) am going to go", "(C) are going to", "(D) will go"],
-    "answer": "(D) will go",
+    "question": "It's easy to get to the restaurant. ＿＿＿ Bus 918 and get off at Sky Park, and you ＿＿＿ it on the corner.",
+    "options": [
+      "(A) Take; saw",
+      "(B) Taking; saw",
+      "(C) Taking; will see",
+      "(D) Take; will see"
+    ],
+    "answer": "(D) Take; will see",
     "image": null,
-    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。"
+    "explanation": "「take+交通工具」表「搭乘某交通工具」,祈使句用原形動詞,助動詞 will 後用原形動 詞。"
   },
   {
     "id": 79,
-    "question": "Bruce ＿＿＿ almost all his money on the house, and his dream of having his own house finally came true.",
-    "options": ["(A) spent", "(B) cost", "(C) paid", "(D) bought"],
-    "answer": "(A) spent",
+    "question": "The toy store is ＿＿＿ the other side of the road. Why don't we ＿＿＿ the road at this traffic lights?",
+    "options": [
+      "(A) between; take",
+      "(B) on; cross",
+      "(C) between; cross",
+      "(D) on; take"
+    ],
+    "answer": "(B) on; cross",
     "image": null,
-    "explanation": "「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。"
+    "explanation": "「on the other side of...」表示「在(某物)的另一邊/對面」,又cross表示「過」馬路, take 表示「走」這條路。"
   },
   {
     "id": 80,
-    "question": "A：Can you go to the supermarket and get some eggs for me?  B：OK.  I ＿＿＿ it in the afternoon.",
-    "options": ["(A) did", "(B) am doing", "(C) was doing", "(D) will do"],
-    "answer": "(D) will do",
+    "question": "Taking the bus is cheap and convenient. ＿＿＿ I can read or rest on the way to work. I really enjoy it.",
+    "options": [
+      "(A) In the end",
+      "(B) What's more",
+      "(C) However",
+      "(D) At first"
+    ],
+    "answer": "(B) What's more",
     "image": null,
-    "explanation": "由空格後的時間副詞 in the afternoon 可知是尚未發生的事，時態用未來式「will＋原形動詞」或「be going to＋原形動詞」。"
+    "explanation": "搭公車便宜又便利,而且可以在車上讀書或休息,皆為搭公車的優點,屬語意的承接。At first 表示時間順序,In the end 表結尾,However 表示轉折,在前後兩句話有對比時使用。"
   },
   {
     "id": 81,
-    "question": "A：How much did you ＿＿＿ for the computer?  B：It only ＿＿＿ me NT$12,000 because the computer store is having a big sale（特價）today.",
-    "options": ["(A) pay; cost", "(B) spend; cost", "(C) cost; spent", "(D) pay; spent"],
-    "answer": "(A) pay; cost",
+    "question": "Mr. and Mrs. Lin missed the only right turn. They had to drive ＿＿＿ the road and make a U-turn. That took them thirty minutes more to get to the museum.",
+    "options": [
+      "(A) north; made",
+      "(B) across; make",
+      "(C) down; make",
+      "(D) south; made"
+    ],
+    "answer": "(C) down; make",
     "image": null,
-    "explanation": "由主詞 you 及 for 可知為「人＋pay＋金錢＋for＋物」的用法，所以第一格用 pay；由 It（= The computer）可知為「物＋cost＋人＋金錢」的用法。"
+    "explanation": "「drive+down」表示「沿著某路開車」,又「make+a+turn」表示「轉彎」。"
   },
   {
     "id": 82,
-    "question": "A：＿＿＿ you buy some cakes for us tomorrow?  B：No, I ＿＿＿.  Cakes are not good for your health.",
-    "options": ["(A) Did; did", "(B) Are; am", "(C) Are going to; am", "(D) Will; won’t"],
-    "answer": "(D) Will; won’t",
+    "question": "A: Are you going to ride a bike around Taiwan next month? B: No, ＿＿＿ not. I'll go ＿＿＿.",
+    "options": [
+      "(A) I'll; on foot",
+      "(B) I'm; with feet",
+      "(C) I'll; with feet",
+      "(D) I'm; on foot"
+    ],
+    "answer": "(D) I'm; on foot",
     "image": null,
-    "explanation": "由時間副詞 tomorrow 可知，問句應用未來式「Will＋主詞＋原形動詞...?」或「Be 動詞＋主詞＋going to＋原形動詞...?」。"
+    "explanation": "由 Are you going to ride 可知為「be going to+原形動詞」的用法,故否定簡答用 No, I'm not.:表達「步行」用 on foot,在此 foot 要用單數形。"
   },
   {
     "id": 83,
-    "question": "＿＿＿ thirty minutes practicing English every day, and you can speak it well（好地）.",
-    "options": ["(A) Take", "(B) Spend", "(C) Pay", "(D) Cost"],
-    "answer": "(B) Spend",
+    "question": "A: ＿＿＿ can we get to the metro station? B: Go straight for two blocks, and it's ＿＿＿ your right.",
+    "options": [
+      "(A) Where; in",
+      "(B) How; at",
+      "(C) How; on",
+      "(D) When; by"
+    ],
+    "answer": "(C) How; on",
     "image": null,
-    "explanation": "「spend＋時間＋V-ing」表「花……時間做某事」。"
+    "explanation": "由回答怎麼走,可知是問路,疑問詞用How。用「on+所有格+right/left」表達「在某人 的右邊/左邊」,故第二格用on。"
   },
   {
     "id": 84,
-    "question": "I bought two boxes of face masks.  They ＿＿＿ me two hundred NT dollars.",
-    "options": ["(A) took", "(B) paid", "(C) spent", "(D) cost"],
-    "answer": "(D) cost",
+    "question": "＿＿＿ the cable car was too expensive. The one way ticket ＿＿＿ us eight dollars.",
+    "options": [
+      "(A) Taking; paid",
+      "(B) Take; cost",
+      "(C) Taking; cost",
+      "(D) Take; paid"
+    ],
+    "answer": "(C) Taking; cost",
     "image": null,
-    "explanation": "由 ... me two hundred NT dollars 可知為「物＋cost＋人＋錢」的用法。"
+    "explanation": "「take+交通工具」表示「搭乘某交通工具」,動名詞當作主詞需用 V-ing,又「某物+cost+ 人+金錢」表示「某物花費某人多少金錢」。"
   },
   {
     "id": 85,
-    "question": "A：＿＿＿ the movie ＿＿＿ begin?  B：Yes.  Please turn off（關閉）your cellphone now.",
-    "options": ["(A) Is; will", "(B) Is; going to", "(C) Will; going to", "(D) Will; is going to"],
-    "answer": "(B) Is; going to",
+    "question": "A: What's wrong with Judy? She just went ＿＿＿ us without saying hello to us. B: Maybe she just didn't notice(注意到)us.",
+    "options": [
+      "(A) between; to say",
+      "(B) past; saying",
+      "(C) straight; saying",
+      "(D) past; said"
+    ],
+    "answer": "(B) past; saying",
     "image": null,
-    "explanation": "be going to 的問句句型為「Be 動詞＋主詞＋going to＋原形動詞...?」。"
+    "explanation": "由 didn't notice us 可知是說 Judy 從旁經過卻沒有打招呼,故第一格用past:介系詞後的 動詞要用 V-ing,故第二格用 saying。"
   },
   {
     "id": 86,
-    "question": "It took the group two months ＿＿＿ the beach.  They met on weekends and worked together with the local people there.",
-    "options": ["(A) clean", "(B) cleaning", "(C) cleaned", "(D) to clean"],
-    "answer": "(D) to clean",
+    "question": "A: Is Mark's Toy Factory ＿＿＿ a park and a museum? B: Yes, just walk down the street for three blocks. You can see it ＿＿＿ the right after you go past the museum.",
+    "options": [
+      "(A) on the corner of; next to",
+      "(B) across; on",
+      "(C) in the back of; by",
+      "(D) between; on"
+    ],
+    "answer": "(D) between; on",
     "image": null,
-    "explanation": "「It takes / took＋人＋時間＋to V」表示「做某事花了某人……時間」。"
+    "explanation": "由 go past the museum 可知玩具工廠在公園與博物館之間,故第一格用 between;表達「在 右邊」用 on the right,故第二格用on。"
   },
   {
     "id": 87,
-    "question": "A：＿＿＿ does it take ＿＿＿ to the bank?  B：I’m not sure.  Maybe for about forty minutes.",
-    "options": ["(A) How long; go", "(B) When; going", "(C) How long; to go", "(D) What time; to go"],
-    "answer": "(C) How long; to go",
+    "question": "Walk ＿＿＿ the street, and you can see the flower shop ＿＿＿ your right.",
+    "options": [
+      "(A) straight; on",
+      "(B) down; in",
+      "(C) straight; in",
+      "(D) down; on"
+    ],
+    "answer": "(D) down; on",
     "image": null,
-    "explanation": "由回答「也許大約四十分鐘」可知，詢問花費多久時間，疑問詞用 How long。it 為虛主詞，代替句中的真主詞 to go to the bank。"
+    "explanation": "「walk down+某路」表示「沿著某路走」,又「on+某人+left/right」表示「在某人左方或 右方」。"
   },
   {
     "id": 88,
-    "question": "A：＿＿＿ will it take you to walk to the bank?  B：About ten minutes.",
-    "options": ["(A) How much", "(B) How often", "(C) What time", "(D) How long"],
-    "answer": "(D) How long",
+    "question": "Many people ＿＿＿ the ship to ＿＿＿ the river. It's fast.",
+    "options": [
+      "(A) drive; on",
+      "(B) ride; beside",
+      "(C) fly; across",
+      "(D) take; cross"
+    ],
+    "answer": "(D) take; cross",
     "image": null,
-    "explanation": "由回答「大約十分鐘」可知，是詢問花費多久時間，疑問詞用 How long。"
+    "explanation": "「搭船」的動詞用take;「cross+物」表示「跨越某物」。"
   },
   {
     "id": 89,
-    "question": "A：What do you plan to do tomorrow?  B：＿＿＿ go swimming at the beach.",
-    "options": ["(A) I", "(B) I’m", "(C) I’ll", "(D) I want"],
-    "answer": "(C) I’ll",
+    "question": "A: Will Dad ＿＿＿ to work tomorrow? B: No, he ＿＿＿. His car is broken, so he'll go to work by bus.",
+    "options": [
+      "(A) ride; won't",
+      "(B) drive; isn't",
+      "(C) walk; won't",
+      "(D) drive; won't"
+    ],
+    "answer": "(D) drive; won't",
     "image": null,
-    "explanation": "由 tomorrow 可知是問明天的計畫，故答句要用未來式，I’ll 為 I will 的縮寫。"
+    "explanation": "由Will 及No可知用否定簡答,故第二格用 won't;由His car is broken 可知問句問明天 是否將開車去上班,故第一格用 drive。"
   },
   {
     "id": 90,
-    "question": "A：The singer ＿＿＿ come to our school this Saturday.  B：Cool!  He is my favorite（最喜愛的）singer.  I can’t wait ＿＿＿ him.",
-    "options": ["(A) is going; to see", "(B) will; seeing", "(C) will; to see", "(D) is going to; see"],
-    "answer": "(C) will; to see",
+    "question": "There was a lot of rain when we went to Taipei on vacation. So, we ＿＿＿ to get around the city instead of (而不是) visiting it ＿＿＿ bike.",
+    "options": [
+      "(A) drove; on",
+      "(B) by bus; on",
+      "(C) rode a bike; by",
+      "(D) took the metro; by"
+    ],
+    "answer": "(D) took the metro; by",
     "image": null,
-    "explanation": "表達「將要……」，可用「will＋原形動詞」或「be going to＋原形動詞」。wait須搭配不定詞。"
+    "explanation": "先判斷後句用 by bike,再推論出前句用騎腳踏車以外的方式遊覽臺北。"
   },
   {
     "id": 91,
-    "question": "A：______ you go swimming this morning?  B：No, I didn’t, but I ______ this afternoon.  Do you want to come with me?",
-    "options": ["(A) Did; did", "(B) Won’t; will", "(C) Are; am", "(D) Didn’t; will"],
-    "answer": "(D) Didn’t; will",
+    "question": "A: Look! There's a beautiful island. How can we get there? B: Now you can go there only ＿＿＿ because the bridge is still under construction(建造中).",
+    "options": [
+      "(A) by train",
+      "(B) on foot",
+      "(C) by truck",
+      "(D) by boat"
+    ],
+    "answer": "(D) by boat",
     "image": null,
-    "explanation": "由 No, I didn’t 可知問句的 this morning 指過去時間，故第一格可用 Did 或 Didn’t；由後句的邀約可知 this afternoon 指未來時間，故第二格要用 will。"
+    "explanation": "由 under construction 可知目前橋梁在建造中,只能「乘船」到島上,故用 by boat。"
   },
   {
     "id": 92,
-    "question": "A：＿＿＿ did you spend on the project（計畫）?  B：About three months.",
-    "options": ["(A) How much", "(B) How often", "(C) How long", "(D) How many"],
-    "answer": "(C) How long",
+    "question": "The bookstore isn't far at all. It's a short bus ＿＿＿ to get there. It won't ＿＿＿ you too long.",
+    "options": [
+      "(A) rides; took",
+      "(B) ride; take",
+      "(C) rode; took",
+      "(D) riding; take"
+    ],
+    "answer": "(B) ride; take",
     "image": null,
-    "explanation": "由回答「大約三個月」可知，是詢問花費多久時間，疑問詞用 How long。"
+    "explanation": "ride 亦可為名詞,「交通工具+ride」表示「某交通工具的搭乘」,又助動詞後方接原形動 詞。"
   },
   {
     "id": 93,
-    "question": "It took Tina two hours ＿＿＿ her homework, but she still couldn’t finish it.",
-    "options": ["(A) do", "(B) doing", "(C) did", "(D) to do"],
-    "answer": "(D) to do",
+    "question": "A: Will the Smiths ＿＿＿ a trip to Hualien by train next week? B: I'm not sure. Mrs. Smith wants to go there ＿＿＿ plane because it's much faster (更快 的).",
+    "options": [
+      "(A) take; on",
+      "(B) to take; by",
+      "(C) take; by",
+      "(D) to take; in a"
+    ],
+    "answer": "(C) take; by",
     "image": null,
-    "explanation": "「It＋takes / took＋人＋時間＋to＋V…」表示「做某事花了某人……時間」。"
+    "explanation": "助動詞 will 後接原形動詞,故第一格用take;表達「搭飛機」用by plane,故第二格用by。"
   },
   {
     "id": 94,
-    "question": "A：Did you buy the book from Tom yesterday?  B：Yes.  I ＿＿＿.",
-    "options": ["(A) paid one hundred NT dollars for Tom", "(B) spent one hundred NT dollars in the book", "(C) paid one hundred NT dollars for the book", "(D) cost one hundred NT dollars to buy the book"],
-    "answer": "(C) paid one hundred NT dollars for the book",
+    "question": "A: Excuse me, is there a bus stop near here? B: Yes. Do you see that tall building? There's a bus stop ＿＿＿ from it, and you can ＿＿＿ the bridge to get there.",
+    "options": [
+      "(A) across; across",
+      "(B) cross; across",
+      "(C) across; cross",
+      "(D) cross; cross"
+    ],
+    "answer": "(C) across; cross",
     "image": null,
-    "explanation": "「A＋pay＋B＋金錢」表「A 付給 B……錢」。「人＋spend＋金錢＋on＋物」表「某人花了……錢買某物」。「人＋pay＋金錢＋for＋物」表「某人付了……錢買某物」。「物＋cost＋人＋金錢」表「某物花了某人……錢」。"
+    "explanation": "across from 表示「在………………對面」;can 接原形動詞,故第二格用 cross。"
   },
   {
     "id": 95,
-    "question": "A：It ＿＿＿ me a lot of time to find my dream job.  B：So, why did you decide ＿＿＿ a cook?",
-    "options": ["(A) paid; to be", "(B) spent; being", "(C) took; to be", "(D) took; being"],
-    "answer": "(C) took; to be",
+    "question": "A: ＿＿＿ will you go to the library this afternoon? B:If(假如)my brother doesn't use his scooter then, I'll ＿＿＿ it there.",
+    "options": [
+      "(A) Why; ride",
+      "(B) How; take",
+      "(C) When; take",
+      "(D) How; ride"
+    ],
+    "answer": "(D) How; ride",
     "image": null,
-    "explanation": "以事物為主詞，搭配花費時間的動詞 take。「decide to＋原形動詞」表「決定……」。"
+    "explanation": "問「如何去圖書館」,疑問詞用How;由 scooter 可知是「騎乘」機車,故第二格用 ride。"
   },
   {
     "id": 96,
-    "question": "Although it cost me NT$50,000 ＿＿＿ a trip to Japan, I still want to go there again.",
-    "options": ["(A) taking", "(B) to take", "(C) took", "(D) take"],
-    "answer": "(B) to take",
+    "question": "A: Before we get to First Bank, we will go past a post office, right? B: Yes, there's one ＿＿＿ First Bank. Do you want to mail something? A: Yes, Mr. Wang asked me ＿＿＿ the card for him.",
+    "options": [
+      "(A) between; send",
+      "(B) across from; to send",
+      "(C) next to; to send",
+      "(D) in front of; sending"
+    ],
+    "answer": "(C) next to; to send",
     "image": null,
-    "explanation": "「It cost＋人＋金錢＋to V」表示「做某事花了某人……錢」。"
+    "explanation": "由 go past 可知有間郵局在第一銀行旁,故第一格用 next to;「ask+人+to+原形動詞」, 故第二格用 to send"
   },
   {
     "id": 97,
-    "question": "A：＿＿＿ come to the party tonight?  B：No, she won’t.  She has to study for tests.",
-    "options": ["(A) Will Audrey", "(B) Is Audrey going", "(C) Did Audrey go to", "(D) Does Audrey go to"],
-    "answer": "(A) Will Audrey",
+    "question": "A: How will we go to Taipei 101? B: ＿＿＿ It's very convenient.",
+    "options": [
+      "(A) We will take the metro.",
+      "(B) I won't go there on foot.",
+      "(C) I don't want to go there.",
+      "(D) They can go there by ship."
+    ],
+    "answer": "(A) We will take the metro.",
     "image": null,
-    "explanation": "答句的 won’t 為助動詞 will 與 not 的縮寫，可知問句的助動詞也要用 will，後面接「主詞＋原形動詞」。"
+    "explanation": "由詢問「我們要如何去臺北101?」可知,應回答搭乘方便的交通工具。"
   },
   {
     "id": 98,
-    "question": "Sam ＿＿＿ a lot of time ＿＿＿ for the test, but he still didn’t pass it.",
-    "options": ["(A) take; to prepare", "(B) spent; preparing", "(C) paid; to prepare", "(D) cost; preparing"],
-    "answer": "(B) spent; preparing",
+    "question": "A: ＿＿＿ B: How about taking a plane? It's fast.",
+    "options": [
+      "(A) Where did you find this?",
+      "(B) What can we eat for lunch?",
+      "(C) How will we go to Penghu?",
+      "(D) How often do you go to Penghu?"
+    ],
+    "answer": "(C) How will we go to Penghu?",
     "image": null,
-    "explanation": "「人＋spend＋時間＋V-ing」表「某人花……時間做某事」。"
+    "explanation": "由回答「搭飛機如何?很快。」可知,問句為「我們要如何去澎湖?」。"
   },
   {
     "id": 99,
-    "question": "A：＿＿＿ you help Lucy ＿＿＿ the floor?  B：Of course, I will.",
-    "options": ["(A) Do; mops", "(B) Did; mopped", "(C) Are; mopping", "(D) Will; mop"],
-    "answer": "(D) Will; mop",
+    "question": "A: How will we go to the hotel? B: ＿＿＿",
+    "options": [
+      "(A) Maybe by bus.",
+      "(B) That's an old and beautiful hotel.",
+      "(C) Yes, we will get there by car.",
+      "(D) We will go to the supermarket."
+    ],
+    "answer": "(A) Maybe by bus.",
     "image": null,
-    "explanation": "答句為 I will，可知問句的助動詞也要用 will；help 後面接原形動詞或「to＋V」。"
+    "explanation": "由A問「我們要如何到飯店?」可知,應回答搭乘何種交通工具。"
   },
   {
     "id": 100,
-    "question": "A：＿＿＿ did it cost Julia to buy the shoes?  B：Three thousand NT dollars.",
-    "options": ["(A) What time", "(B) How much", "(C) How long", "(D) How many"],
-    "answer": "(B) How much",
+    "question": "Don't worry. This question is not difficult at all. ＿＿＿",
+    "options": [
+      "(A) It doesn't cost anything to ride it.",
+      "(B) You made the same mistake again.",
+      "(C) It won't take you too long to answer it.",
+      "(D) You can spend ten minutes looking for it."
+    ],
+    "answer": "(C) It won't take you too long to answer it.",
     "image": null,
-    "explanation": "由回答「新臺幣三千元」可知，是詢問花費多少錢，疑問詞用 How much。"
+    "explanation": "別擔心。這問題一點也不難。「解題不會花你太多時間。」"
   },
   {
     "id": 101,
-    "question": "A：Is Mom in the kitchen now?  B：Yes, and she ＿＿＿ to cook dinner.  Dinner will be ready in one hour.",
-    "options": ["(A) is going", "(B) will", "(C) is", "(D) does"],
-    "answer": "(A) is going",
+    "question": "A: How can I get to the bookstore? B: ＿＿＿ A: I see. Thank you.",
+    "options": [
+      "(A) You can buy this book at that bookstore.",
+      "(B) You need to go straight for two blocks.",
+      "(C) You should be at the bookstore at 3 p.m.",
+      "(D) Is it on Second Road or Star Street?"
+    ],
+    "answer": "(B) You need to go straight for two blocks.",
     "image": null,
-    "explanation": "由空格後為「to＋V」可知，此為「be going to＋原形動詞」用法。"
+    "explanation": "問如何去某處,應回答如何走。"
   },
   {
     "id": 102,
-    "question": "Patty ＿＿＿ a day in the department store looking for a cap for her husband.",
-    "options": ["(A) took", "(B) spent", "(C) cost", "(D) paid"],
-    "answer": "(B) spent",
+    "question": "A: When did they get to the library yesterday? B: ＿＿＿",
+    "options": [
+      "(A) They got there at 7 p.m.",
+      "(B) The library is not on our right.",
+      "(C) They can't find the library on the map.",
+      "(D) They should walk along the road and turn right."
+    ],
+    "answer": "(A) They got there at 7 p.m.",
     "image": null,
-    "explanation": "「spend＋時間＋V-ing」表「花了……時間做某件事」。"
+    "explanation": "問何時抵達,應回答時間。"
   },
   {
     "id": 103,
-    "question": "A：Is John going to go on vacation with his family?  B：No, ＿＿＿.",
-    "options": ["(A) he won’t", "(B) he isn’t", "(C) he wasn’t", "(D) he didn’t"],
-    "answer": "(B) he isn’t",
+    "question": "The train station is just at the end of this road. ＿＿＿ and you can see it next to the bank.",
+    "options": [
+      "(A) Don't cross the road",
+      "(B) It is behind the train station",
+      "(C) Turn right on Apple Street",
+      "(D) Keep walking for three blocks"
+    ],
+    "answer": "(D) Keep walking for three blocks",
     "image": null,
-    "explanation": "用未來式「be going to＋原形動詞」問，簡答就用「Yes / No, 主詞＋be 動詞（＋not）.」回應。"
+    "explanation": "火車站就在這條路的末端。「繼續走三個街區」,你就可以在銀行的旁邊看到火車站。"
   },
   {
     "id": 104,
-    "question": "It ＿＿＿ me a week to finish the work because it was really difficult.",
-    "options": ["(A) took", "(B) spent", "(C) paid", "(D) cost"],
-    "answer": "(A) took",
+    "question": "A: Now what should we do? Should we go straight or turn right? B: ＿＿＿",
+    "options": [
+      "(A) Please drive me to work.",
+      "(B) Let Google Maps show us the way.",
+      "(C) We can show him around in person.",
+      "(D) Look! I just bought a new smartphone."
+    ],
+    "answer": "(B) Let Google Maps show us the way.",
     "image": null,
-    "explanation": "「It takes / took＋人＋時間＋to V」表示「做某事花了某人……時間」。"
+    "explanation": "A問「現在我們該怎麼做?我們應該直走,還是右轉?」最恰當的回應是「讓Google 地 圖指示我們路線」。"
   },
   {
     "id": 105,
-    "question": "A：______ you have a good time at Laura’s place tonight?  B：Yes.  I’m happy I went, and I ______ there again tomorrow.",
-    "options": ["(A) Do; will go", "(B) Did; am going", "(C) Were; will go", "(D) Will; am going to go"],
-    "answer": "(B) Did; am going",
+    "question": "A: Excuse me, I am going to the library. Should I turn right at this corner? B: No, don't make any turns. ＿＿＿ It's not far from here.",
+    "options": [
+      "(A) You can't find one in town.",
+      "(B) You can take a train there.",
+      "(C) Just walk straight for two minutes.",
+      "(D) Turn right and walk along this street."
+    ],
+    "answer": "(C) Just walk straight for two minutes.",
     "image": null,
-    "explanation": "由回答 I’m happy I went 可知，第一個空格須用過去式助動詞 Did；由 tomorrow 可知，第二個空格要用未來式，可用 will go、am going to go、am going 表達。"
+    "explanation": "由「不,不要轉彎。」可知,B是要A直走。"
   },
   {
     "id": 106,
-    "question": "A：Are you going to the beach ______?  B：Yes, but if（如果）it rains, we ______ stay at home.",
-    "options": ["(A) now; were", "(B) this Sunday; won’t", "(C) next weekend; will", "(D) at that time; going to"],
-    "answer": "(C) next weekend; will",
+    "question": "＿＿＿ when the traffic lights turn red. We must follow the traffic rules.",
+    "options": [
+      "(A) Let's walk across the street",
+      "(B) Turn right at the supermarket",
+      "(C) It's not right to cross the road",
+      "(D) Check the map on the smartphone"
+    ],
+    "answer": "(C) It's not right to cross the road",
     "image": null,
-    "explanation": "由 Are you going to 可知問句的時態為未來式，故第一格可用 this Sunday 或 next weekend；如果下雨「將會」待在家，故兩空格皆符合的選項為 (C)。"
+    "explanation": "紅燈時「穿越馬路是不對的」。我們一定要遵守交通規則。"
   },
   {
     "id": 107,
-    "question": "Ted ＿＿＿ a lot of money on an English program（課程）, and he ＿＿＿ a tutor（家教）to teach his eight-year-old son.",
-    "options": ["(A) spent; spent", "(B) cost; paid", "(C) spent; paid", "(D) took; spent"],
-    "answer": "(C) spent; paid",
+    "question": "A: ＿＿＿ B: We will take a taxi there.",
+    "options": [
+      "(A) How did you go to the department store?",
+      "(B) How will we go to the department store?",
+      "(C) What will you do at the department store?",
+      "(D) When are we going to visit the department store?"
+    ],
+    "answer": "(B) How will we go to the department store?",
     "image": null,
-    "explanation": "「人＋spend＋金錢＋on 物品」表示「某人花多少錢在某物品上」、「人＋pay＋受詞＋to＋V」表「某人付錢叫人做某事」。"
+    "explanation": "由答句可知,問句在詢問交通方式,且由 will 可知是在詢問未來時間。"
   },
   {
     "id": 108,
-    "question": "A：Are they going to shop for food with us?  B：＿＿＿",
-    "options": ["(A) Yes, they are.", "(B) No, they are going there.", "(C) Won’t they go with a group?", "(D) No, it won’t take you too much time."],
-    "answer": "(A) Yes, they are.",
+    "question": "A: Excuse me. ＿＿＿ B: Cross the road and go straight for two blocks. The library will be on your right.",
+    "options": [
+      "(A) How can I get to the library?",
+      "(B) How did you go to the library?",
+      "(C) What are you doing in the library?",
+      "(D) Let's study in the library this afternoon."
+    ],
+    "answer": "(A) How can I get to the library?",
     "image": null,
-    "explanation": "A：他們要跟我們去購買食物嗎？  B：「是的，他們要。」"
+    "explanation": "從B的回答可知,A是問「如何去圖書館」。"
   },
   {
     "id": 109,
-    "question": "A：＿＿＿  B：Yes.  Visiting floating markets is very interesting.",
-    "options": ["(A) Are you going to the supermarket?", "(B) What are you going to do tomorrow?", "(C) Is visiting night markets popular here?", "(D) Are you going to visit the floating market with us tomorrow?"],
-    "answer": "(D) Are you going to visit the floating market with us tomorrow?",
+    "question": "＿＿＿ because my father has to use the car. Can you give me a ride?",
+    "options": [
+      "(A) I can't drive to work",
+      "(B) I can't walk to school",
+      "(C) I can't fly a plane today",
+      "(D) I can't take a bus to the library"
+    ],
+    "answer": "(A) I can't drive to work",
     "image": null,
-    "explanation": "A：「你明天要跟我們去造訪水上市場嗎？」  B：好啊。造訪水上市場很有趣。"
+    "explanation": "「我無法開車上班」,因為我爸爸要用車。你可以讓我搭便車嗎?"
   },
   {
     "id": 110,
-    "question": "A：I’m hungry.  B：＿＿＿  Let’s have dinner at the Chinese restaurant next to the post office.",
-    "options": ["(A) Almost!", "(B) Good job!", "(C) Same here.", "(D) Can I take a look?"],
-    "answer": "(C) Same here.",
+    "question": "＿＿＿ because the train is always full (充滿的) of people during rush hour (尖峰時間). I usually ride my scooter.",
+    "options": [
+      "(A) It's difficult for me to drive",
+      "(B) Going to work by bus is good",
+      "(C) I seldom take a train to work",
+      "(D) There are lots of cars on the road"
+    ],
+    "answer": "(C) I seldom take a train to work",
     "image": null,
-    "explanation": "A：我餓了。  B：「我也是。」我們去郵局旁邊的中式餐廳吃晚餐吧。"
+    "explanation": "「我很少搭火車上班」,因為在尖峰時間,列車上總是擠滿人。我通常是騎機車。"
   },
   {
     "id": 111,
-    "question": "A：Are you going to visit the museum this afternoon?  B：Of course.  There are Monet’s paintings（畫）there now.  A：Really?  I like the great painter（畫家）.  ______",
-    "options": ["(A) I’ll go with you.", "(B) It won’t take you much time.", "(C) Be careful with the paintings.", "(D) I’m not going there this afternoon."],
-    "answer": "(A) I’ll go with you.",
+    "question": "The papaya milk in this store is cheap and good. However, ＿＿＿. So, I don't go there anymore(再也不).",
+    "options": [
+      "(A) it's very good for children",
+      "(B) that's too expensive for me",
+      "(C) the clerks are not kind at all",
+      "(D) it only took me five minutes to get there"
+    ],
+    "answer": "(C) the clerks are not kind at all",
     "image": null,
-    "explanation": "A：你今天下午將去參觀博物館嗎？  B：當然。現在那裡有 Monet 的畫作。  A：真地嗎？我喜歡這位偉大的畫家。「我要和你一起去。」"
+    "explanation": "這間店的木瓜牛奶便宜又好喝。然而,「店員們卻不友善」。所以我再也不去了。"
   },
   {
     "id": 112,
-    "question": "A：What are you going to do this weekend?  B：＿＿＿",
-    "options": ["(A) I go to the department store on weekends.", "(B) We visited a famous temple last weekend.", "(C) We don’t go to school during summer vacation.", "(D) I need to work at my brother’s flower shop this weekend."],
-    "answer": "(D) I need to work at my brother’s flower shop this weekend.",
+    "question": "＿＿＿ because it's not far away. Isn't it good to exercise every day?",
+    "options": [
+      "(A) Let's go to the park on foot",
+      "(B) I seldom take a bus at night",
+      "(C) You don't have to walk to the library",
+      "(D) We can ride a scooter to the restaurant"
+    ],
+    "answer": "(A) Let's go to the park on foot",
     "image": null,
-    "explanation": "A：你這週末將要做什麼？  B：「我這週末將要在我哥哥的花店工作。」"
+    "explanation": "「我們走路去公園吧」,因為它離這不遠。每天運動不是很好嗎?"
   },
   {
     "id": 113,
-    "question": "______ because he is busy with work and can’t cook for us tonight.",
-    "options": ["(A) Dad will have dinner with us", "(B) The restaurant is next to the metro station", "(C) Making dinner only took Dad half an hour", "(D) Dad told me to buy our dinner home after school"],
-    "answer": "(D) Dad told me to buy our dinner home after school",
+    "question": "A: We are lost (迷路的). B: Don't worry. ＿＿＿ Here we are. The hotel is only two blocks from here. A: Wow, the smartphone is really useful(有用的)!",
+    "options": [
+      "(A) I love watching movies.",
+      "(B) I need to talk to the clerk.",
+      "(C) Let me check Google Maps.",
+      "(D) We can ask that police officer for help."
+    ],
+    "answer": "(C) Let me check Google Maps.",
     "image": null,
-    "explanation": "「爸爸叫我放學後買晚餐回家」，因為他工作很忙，今晚沒辦法煮飯給我們吃。"
+    "explanation": "A說:「我們迷路了。」B回應:「別擔心。(讓我查一下 Google 地圖。)我們在這, 而旅館離這只有兩個街區。」A回應:「哇,這智慧型手機真有用!」"
   },
   {
     "id": 114,
-    "question": "A：＿＿＿  B：Yes, I am.  I can’t wait to see the famous city.  A：Have a good trip.",
-    "options": ["(A) Were you in Bangkok before?", "(B) Will you go to the famous restaurant?", "(C) Are you going to visit Bangkok next month?", "(D) Is your brother going to go swimming this weekend?"],
-    "answer": "(C) Are you going to visit Bangkok next month?",
+    "question": "A: It's sunny today. How about going to Sanxia(三峽)this afternoon? B: ＿＿＿ A: Let's ride a scooter there.",
+    "options": [
+      "(A) Will you go there?",
+      "(B) Then how will we go there?",
+      "(C) Why can't you go to Taipei?",
+      "(D) How's the weather there?"
+    ],
+    "answer": "(B) Then how will we go there?",
     "image": null,
-    "explanation": "A：「你下個月要造訪曼谷嗎？」  B：是的，我是。我等不及要看看這著名的城市。  A：祝你旅行愉快。"
+    "explanation": "由A回答「我們騎輕型機車去吧。」可知,只有「那麼我們要如何去那裡?」符合題意。"
   },
   {
     "id": 115,
-    "question": "A：What are we going to do after dinner?  B：＿＿＿",
-    "options": ["(A) He will pay for the dinner.", "(B) They are going to have chicken rice for dinner.", "(C) We are going to get some drinks at the supermarket.", "(D) We often take a walk along the river before dinner."],
-    "answer": "(C) We are going to get some drinks at the supermarket.",
+    "question": "A: Excuse me, sir. How can I get to the train station? B: ＿＿＿ Then you can see the train station on your left. A: Thank you.",
+    "options": [
+      "(A) Sorry, I'm new to this place.",
+      "(B) It's across from Happy Department Store.",
+      "(C) Thank you for taking me to the station.",
+      "(D) Walk straight and turn right on Apple Road."
+    ],
+    "answer": "(D) Walk straight and turn right on Apple Road.",
     "image": null,
-    "explanation": "A：我們吃完晚餐後將要做什麼？  B：「我們將要去超級市場買些飲料。」"
+    "explanation": "A問:「先生,不好意思。我該如何走才能到火車站?」B回答:「(直走,在Apple路 右轉。)然後你就可以看到火車站在你的左邊。」A回應:「謝謝。」"
   },
   {
     "id": 116,
-    "question": "A：Guess what?  Mr. and Mrs. Wang are going to move to another city next week.  B：Really?  What will they do with their old house?  A：______  B：How much money will they make if（如果）they sell their house?  A：About two million（百萬）NT dollars.",
-    "options": ["(A) They want to sell the house at a high price.", "(B) The house doesn’t cost them much money.", "(C) They will pay NT$9,800,000 for the house.", "(D) They plan to spend NT$9,800,000 on the house."],
-    "answer": "(A) They want to sell the house at a high price.",
+    "question": "A: Excuse me, sir. ＿＿＿ B: Walk past the bank and then turn left at the library. A: Thanks for taking time to help me.",
+    "options": [
+      "(A) Which train will take me to Sunny Park?",
+      "(B) Where is the library? I'm lost(迷路的).",
+      "(C) How can we get to Starry Night Hotel?",
+      "(D) How will you take me to the post office?"
+    ],
+    "answer": "(C) How can we get to Starry Night Hotel?",
     "image": null,
-    "explanation": "A：你猜怎麼著？王先生跟王太太下週要搬到另一個城市。  B：真地嗎？那他們要怎麼處理他們的舊房子？  A：「他們想以高價賣掉房子。」  B：如果他們賣掉房子，他們會賺多少錢？  A：大約新臺幣兩百萬。"
+    "explanation": "由答句告知前往方式可知,問句在問路,並且是以步行的方式。"
   },
   {
     "id": 117,
-    "question": "It’s raining now, so ______.  I don’t want to go out and get wet.",
-    "options": ["(A) I decided to stay at home", "(B) I’ll go to the beach on my own", "(C) I’m going to leave for the bus station", "(D) it took me half an hour to walk to the station"],
-    "answer": "(A) I decided to stay at home",
+    "question": "I asked a police officer for directions(方向), ＿＿＿ However, he showed me the wrong way.",
+    "options": [
+      "(A) so I lost(迷路的) the way to the park and was one hour late",
+      "(B) but he was new and didn't know the way to the park",
+      "(C) and he told me not to walk to the park because it was far",
+      "(D) and he told me to go straight for two blocks to get to the park"
+    ],
+    "answer": "(D) and he told me to go straight for two blocks to get to the park",
     "image": null,
-    "explanation": "現在正在下雨，所以「我決定待在家」。我不想去外面被雨淋溼。"
+    "explanation": "我向一位警察問路,「他告訴我直走兩個街區就會到公園」。然而,他跟我報錯了路。"
   },
   {
     "id": 118,
-    "question": "Go to the top of the mountain, and ______.  You can also see the ocean（海洋）.",
-    "options": ["(A) check out the post offices around here", "(B) share the story about the famous temple", "(C) you can see all the fishing boats along the river", "(D) you can learn the names of the places from the book"],
-    "answer": "(C) you can see all the fishing boats along the river",
+    "question": "Usually, I don't drive to that department store on weekends. Because ＿＿＿ I often take the metro or bus to get there.",
+    "options": [
+      "(A) I spent all my money on the car",
+      "(B) it is a great place to spend time with family",
+      "(C) it is a lot of fun to shop there with my family",
+      "(D) there aren't enough parking spaces"
+    ],
+    "answer": "(D) there aren't enough parking spaces",
     "image": null,
-    "explanation": "走到山頂，那麼「你可以看見沿著河邊的所有漁船。」你也可以看見海洋。"
+    "explanation": "我通常不會在週末時開車去那間百貨公司。因為「沒有足夠的停車位」,所以我時常都搭捷 運或公車去那裡。"
   },
   {
     "id": 119,
-    "question": "A：Here we are.  Amphawa Floating Market!  B：Thanks for taking me here.  I can’t wait to visit the market.  A：Take your time.  ______",
-    "options": ["(A) We’ll go there on our own.", "(B) It won’t take you much time.", "(C) How long will they stay here?", "(D) We are going to spend three hours here."],
-    "answer": "(D) We are going to spend three hours here.",
+    "question": "A: I want to go to Sun Park. Is there a bus stop near it? B: ＿＿＿ After you get off the bus, take the pedestrian underpass(人行地下道)to cross the road. Then you can get to the park. A: OK. Thank you very much.",
+    "options": [
+      "(A) No, there aren't any metro stations near it.",
+      "(B) Yes, there's one next to it.",
+      "(C) Yes, there's one across from it.",
+      "(D) Yes, there's one in the front of it."
+    ],
+    "answer": "(C) Yes, there's one across from it.",
     "image": null,
-    "explanation": "A：我們到了。安帕瓦水上市場！  B：感謝你帶我來到這裡。我等不及要參觀市場了。  A：慢慢來。「我們會在這裡花費三小時。」"
-  },
-  {
-    "id": 120,
-    "question": "A：Will you and Joan go to the show tomorrow night?  B：Well, I will, ＿＿＿.",
-    "options": ["(A) but I am going to the show now", "(B) but only Joan will go to the show", "(C) but Joan will not go to the show", "(D) but Joan and I are not going to the show"],
-    "answer": "(C) but Joan will not go to the show",
-    "image": null,
-    "explanation": "A：你跟 Joan 將會去明晚的表演嗎？  B：嗯，我會去，「但 Joan 不會去那場表演」。"
-  },
-  {
-    "id": 121,
-    "question": "A：Why are you so tired（疲累的）?  B：Because my friends and I played soccer this morning.  A：How long did you spend playing the game?  B：＿＿＿ without taking a break.  A：No wonder.",
-    "options": ["(A) I am going to get some sleep", "(B) We spent three hours playing soccer", "(C) We didn’t play soccer until 11 o’clock", "(D) It took me 30 minutes to get to the park"],
-    "answer": "(B) We spent three hours playing soccer",
-    "image": null,
-    "explanation": "A：你為什麼這麼疲累？  B：因為我今天早上跟我朋友踢足球。  A：你們花了多少時間比賽？  B：「我們花了三小時踢足球」且沒有休息。  A：難怪。"
-  },
-  {
-    "id": 122,
-    "question": "A：＿＿＿  B：Maybe.  Do you want to go with him?",
-    "options": ["(A) Was it cold last night?", "(B) What’s your plan for the trip?", "(C) Are you going to watch the show?", "(D) Is John going to visit Aunt Stella today?"],
-    "answer": "(D) Is John going to visit Aunt Stella today?",
-    "image": null,
-    "explanation": "A：「John 今天要去拜訪 Stella 伯母嗎？」  B：或許會。你想跟他去嗎？"
-  },
-  {
-    "id": 123,
-    "question": "A：My family will take a trip to Sun Moon Lake next week.  B：Great!  There are many good hotels around the lake.  ______  A：This time we are going camping, so we’ll sleep in our tents（帳篷）.",
-    "options": ["(A) When will you go there?", "(B) How will you go there?", "(C) Which one will you stay at?", "(D) Will you take a photo at the lake?"],
-    "answer": "(C) Which one will you stay at?",
-    "image": null,
-    "explanation": "A：我們家下星期將要去日月潭旅行。  B：太棒了！日月潭周圍有很多不錯的旅館。「你們要住在哪家？」  A：這次我們將要去露營，所以我們將睡在我們的帳篷裡。"
-  },
-  {
-    "id": 124,
-    "question": "A：Will you go to church this Sunday?  B：＿＿＿",
-    "options": ["(A) No, but I will do it next week.", "(B) No, I will go to church with you.", "(C) Yes, I’m going to go shopping, too.", "(D) Yes, I’m going to spend my Sunday at the beach."],
-    "answer": "(A) No, but I will do it next week.",
-    "image": null,
-    "explanation": "A：你這週日要去教堂做禮拜嗎？  B：「不會，但我下星期會。」"
-  },
-  {
-    "id": 125,
-    "question": "A：How much money can I spend on the snacks this week, Dad?  B：＿＿＿  Having too many snacks isn’t good for you.",
-    "options": ["(A) I decided to stay at home.", "(B) About two hundred NT dollars.", "(C) They only cost me fifty NT dollars.", "(D) We’ll stay in the hotel for one week."],
-    "answer": "(B) About two hundred NT dollars.",
-    "image": null,
-    "explanation": "A：我這週可以花多少錢買零食，爸爸？  B：「大約新臺幣兩百元。」吃太多零食對你不好。"
-  },
-  {
-    "id": 126,
-    "question": "My family will take a trip to Singapore during the winter vacation, so my dad told me to plan the trip.  ______ because he wants to choose a good one to stay at.",
-    "options": ["(A) He will pay for the trip", "(B) We will visit some famous temples", "(C) He also asked me to check out some hotels", "(D) He also asked me to stay at the restaurant"],
-    "answer": "(C) He also asked me to check out some hotels",
-    "image": null,
-    "explanation": "我家今年寒假將要去新加坡旅行，所以我爸爸要我規劃旅行。「他也要我查看一些飯店」，因為他想要選一間好的來住。"
-  },
-  {
-    "id": 127,
-    "question": "A：Are Mr. and Mrs. Johnson going to leave for the department store?  B：Yes, ＿＿＿.",
-    "options": ["(A) they are going to shop for gifts", "(B) it won’t take you too much time", "(C) Mr. Johnson is going to take a trip", "(D) Mrs. Johnson goes to the department store"],
-    "answer": "(A) they are going to shop for gifts",
-    "image": null,
-    "explanation": "A：Johnson 夫婦將會前往百貨公司嗎？  B：是的，「他們要去購買禮物。」"
-  },
-  {
-    "id": 128,
-    "question": "______, and we’ll have a hot spring bath（溫泉）at a famous hotel.  Do you want to go with us?",
-    "options": ["(A) We don’t like to take a bath", "(B) We stayed there for a week", "(C) We spent two hours walking there", "(D) We’re planning a trip to Yilan this winter"],
-    "answer": "(D) We’re planning a trip to Yilan this winter",
-    "image": null,
-    "explanation": "「我們正在計畫今年冬天到宜蘭旅行」，而且我們將會在一間有名的飯店泡溫泉。你想要跟我們去嗎？"
-  },
-  {
-    "id": 129,
-    "question": "A：Why do these elephants in Africa（非洲）go a long way to find water?  B：Because it’s not the rainy season now, ＿＿＿.  A：I see.",
-    "options": ["(A) this is going to be exciting", "(B) there won’t be enough fruit", "(C) the rivers here are going to dry out", "(D) the zebras will stay here until the elephants come back"],
-    "answer": "(C) the rivers here are going to dry out",
-    "image": null,
-    "explanation": "A：為什麼非洲的大象要長途跋涉找水源？  B：因為現在不是雨季，「這裡的河即將乾枯」。  A：我了解了。"
+    "explanation": "A說:「我想去Sun 公園。公園附近有公車站嗎?」B回應:「(有,公園對面有一個。) 你下公車後,走人行地下道穿越馬路。然後就可以到達公園。」A回應:「好的。非常謝謝你。」"
   }
 ]
